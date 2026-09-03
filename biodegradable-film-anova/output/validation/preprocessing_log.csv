@@ -1,0 +1,19 @@
+Source_File,Stage,Original_N,Removed_N,Reason,Remaining_N
+pengujian (ANOVA)_Kelarutan_Matriks,Header cleaning,79,2,Removed because repeated header,77
+pengujian (ANOVA)_Kelarutan_Matriks,Empty/block row cleaning,77,2,Removed because empty or block title,74
+pengujian (ANOVA)_Kelarutan_Matriks.csv,Drop missing FTL,74,2,Removed because response FTL is NaN,72
+pengujian (ANOVA)_Kelarutan_Matriks.csv,Drop missing Kelarutan,74,2,Removed because response Kelarutan is NaN,72
+pengujian (ANOVA)_Kelarutan_Matriks.csv,Drop missing Formability,74,0,Removed because response Formability is NaN,74
+pengujian (ANOVA)_Opasitas,Header cleaning,56,2,Removed because repeated header,54
+pengujian (ANOVA)_Opasitas,Empty/block row cleaning,54,2,Removed because empty or block title,51
+pengujian (ANOVA)_Opasitas.csv,Drop missing Opasitas,51,0,Removed because response Opasitas is NaN,51
+pengujian (ANOVA)_Solubilitas,Header cleaning,56,2,Removed because repeated header,54
+pengujian (ANOVA)_Solubilitas,Empty/block row cleaning,54,2,Removed because empty or block title,51
+pengujian (ANOVA)_Solubilitas.csv,Drop missing Solubilitas,51,0,Removed because response Solubilitas is NaN,51
+pengujian (ANOVA)_WVTR,Header cleaning,56,2,Removed because repeated header,54
+pengujian (ANOVA)_WVTR,Empty/block row cleaning,54,2,Removed because empty or block title,51
+pengujian (ANOVA)_WVTR.csv,Drop missing WVTR,51,0,Removed because response WVTR is NaN,51
+pengujian (ANOVA)_UTS_&_elong,Header cleaning,57,2,Removed because repeated header,55
+pengujian (ANOVA)_UTS_&_elong,Empty/block row cleaning,55,3,Removed because empty or block title,51
+pengujian (ANOVA)_UTS_&_elong.csv,Drop missing UTS,51,0,Removed because response UTS is NaN,51
+pengujian (ANOVA)_UTS_&_elong.csv,Drop missing Elongasi,51,0,Removed because response Elongasi is NaN,51

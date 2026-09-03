@@ -1,0 +1,3 @@
+Response,Test,Statistic,p-value,Decision
+UTS,Shapiro-Wilk (Normality on Residuals),0.9621116306037687,0.10263099490138268,OK
+UTS,Levene (Homogeneity),0.6854219205686977,0.787749680426419,OK

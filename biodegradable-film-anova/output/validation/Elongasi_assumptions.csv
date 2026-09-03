@@ -1,0 +1,3 @@
+Response,Test,Statistic,p-value,Decision
+Elongasi,Shapiro-Wilk (Normality on Residuals),0.9356698935958339,0.008264979646837246,Violated
+Elongasi,Levene (Homogeneity),1.5785001035524937,0.12915866558611738,OK

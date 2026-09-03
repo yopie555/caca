@@ -1,0 +1,940 @@
+2026-09-03 15:09:44,121 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:09:44,288 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:09:44,302 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:09:44,306 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:44,309 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:44,314 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:44,317 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:09:44,318 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:09:54,332 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:09:54,522 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:09:54,536 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:09:54,542 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:54,546 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:54,554 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:09:54,559 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:09:54,561 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:11:36,197 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:11:36,333 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:11:36,343 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:11:36,346 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:11:36,349 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:11:36,354 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:11:36,357 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:11:36,358 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:11:36,366 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 15:11:36,369 - INFO - Cleaned dataset saved to output/cleaned_dataset.csv
+2026-09-03 15:11:36,370 - INFO - Starting data validation...
+2026-09-03 15:11:36,370 - INFO - Total observations: 280
+2026-09-03 15:11:36,370 - INFO - Sorbitol observations: 162
+2026-09-03 15:11:36,370 - INFO - Gliserol observations: 118
+2026-09-03 15:11:36,370 - WARNING - Expected 72 observations but found 280.
+2026-09-03 15:11:36,370 - INFO - Validation completed.
+2026-09-03 15:19:44,698 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:19:44,837 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:19:44,847 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:19:44,851 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:19:44,854 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:19:44,859 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:19:44,862 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:19:44,862 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:19:44,881 - WARNING - Could not find valid headers in output/raw_csv/pengujian (ANOVA)_Solubilitas.csv
+2026-09-03 15:19:44,888 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 15:19:44,889 - INFO - Validating dataset for response: FTL
+2026-09-03 15:19:44,889 - INFO - FTL total observations: 72
+2026-09-03 15:19:44,889 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 15:19:44,889 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 15:19:44,892 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 15:19:44,892 - INFO - Kelarutan total observations: 72
+2026-09-03 15:19:44,892 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 15:19:44,892 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 15:19:44,893 - INFO - Validating dataset for response: UTS
+2026-09-03 15:19:44,893 - INFO - UTS total observations: 51
+2026-09-03 15:19:44,893 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 15:19:44,893 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 15:19:44,893 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:19:44,894 - WARNING - Duplicate observations found in UTS.
+2026-09-03 15:19:44,895 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 15:19:44,923 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 15:19:45,282 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 15:19:45,834 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:19:45,985 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:19:46,261 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:19:51,001 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 15:19:51,352 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 15:19:51,898 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:19:52,050 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:19:52,325 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:46:57,073 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:46:57,202 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:46:57,213 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:46:57,216 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:46:57,219 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:46:57,223 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:46:57,227 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:46:57,227 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:46:57,253 - WARNING - Could not find valid headers in output/raw_csv/pengujian (ANOVA)_WVTR.csv
+2026-09-03 15:46:57,257 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 15:46:57,259 - INFO - Validating dataset for response: FTL
+2026-09-03 15:46:57,259 - INFO - FTL total observations: 72
+2026-09-03 15:46:57,259 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 15:46:57,259 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 15:46:57,261 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 15:46:57,261 - INFO - Kelarutan total observations: 72
+2026-09-03 15:46:57,261 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 15:46:57,261 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 15:46:57,262 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 15:46:57,262 - INFO - Solubilitas total observations: 51
+2026-09-03 15:46:57,262 - INFO - Solubilitas (Sorbitol) observations: 51
+2026-09-03 15:46:57,262 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=1, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=1, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=1, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=2, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=2, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=3, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=3, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,263 - WARNING - Solubilitas: Treatment CMC=3, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:46:57,264 - WARNING - Duplicate observations found in Solubilitas.
+2026-09-03 15:46:57,264 - INFO - Validating dataset for response: Opasitas
+2026-09-03 15:46:57,264 - INFO - Opasitas total observations: 51
+2026-09-03 15:46:57,264 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 15:46:57,264 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 15:46:57,264 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:46:57,265 - INFO - Validating dataset for response: UTS
+2026-09-03 15:46:57,265 - INFO - UTS total observations: 51
+2026-09-03 15:46:57,266 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 15:46:57,266 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 15:46:57,266 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:46:57,267 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 15:46:57,295 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 15:46:57,654 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 15:46:58,202 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:46:58,361 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:46:58,640 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:47:02,546 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 15:47:02,901 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 15:47:03,453 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:47:03,649 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:47:03,928 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:47:07,543 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 15:47:07,545 - WARNING - Homogeneity of variance assumption for Solubilitas may be violated.
+2026-09-03 15:47:07,546 - WARNING - Unbalanced data detected for Solubilitas. Using Type 3 ANOVA.
+2026-09-03 15:47:07,550 - ERROR - ANOVA failed for Solubilitas: must have at least one row in constraint matrix
+2026-09-03 15:49:01,130 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:49:01,265 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:49:01,275 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:49:01,279 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:49:01,282 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:49:01,286 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:49:01,289 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:49:01,290 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:49:01,320 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 15:49:01,321 - INFO - Validating dataset for response: FTL
+2026-09-03 15:49:01,322 - INFO - FTL total observations: 72
+2026-09-03 15:49:01,322 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 15:49:01,322 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 15:49:01,324 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 15:49:01,324 - INFO - Kelarutan total observations: 72
+2026-09-03 15:49:01,324 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 15:49:01,324 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 15:49:01,325 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 15:49:01,325 - INFO - Solubilitas total observations: 51
+2026-09-03 15:49:01,325 - INFO - Solubilitas (Sorbitol) observations: 51
+2026-09-03 15:49:01,325 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=1, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=1, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=1, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=2, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=2, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=3, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=3, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Solubilitas: Treatment CMC=3, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:49:01,326 - WARNING - Duplicate observations found in Solubilitas.
+2026-09-03 15:49:01,327 - INFO - Validating dataset for response: Opasitas
+2026-09-03 15:49:01,327 - INFO - Opasitas total observations: 51
+2026-09-03 15:49:01,327 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 15:49:01,327 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 15:49:01,327 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:49:01,328 - INFO - Validating dataset for response: UTS
+2026-09-03 15:49:01,328 - INFO - UTS total observations: 51
+2026-09-03 15:49:01,328 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 15:49:01,328 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 15:49:01,328 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:49:01,329 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 15:49:01,358 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 15:49:01,722 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 15:49:02,270 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:49:02,426 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:49:02,703 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:49:06,783 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 15:49:07,270 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 15:49:07,848 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:49:08,009 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:49:08,301 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:49:12,023 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 15:49:12,024 - WARNING - Homogeneity of variance assumption for Solubilitas may be violated.
+2026-09-03 15:49:13,583 - INFO - Significant interaction CMC × PVA for Opasitas. Running simple effects.
+2026-09-03 15:49:13,985 - INFO - Significant interaction CMC × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:49:14,211 - INFO - Significant interaction PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:49:14,372 - INFO - Significant interaction CMC × PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:49:17,003 - INFO - Significant interaction CMC × PVA for UTS. Running simple effects.
+2026-09-03 15:49:17,364 - INFO - Significant interaction CMC × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:49:17,569 - INFO - Significant interaction PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:49:17,820 - INFO - Significant interaction CMC × PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:49:20,615 - INFO - Generating HTML report...
+2026-09-03 15:49:20,716 - INFO - HTML report saved to output/report/report.html
+2026-09-03 15:50:04,409 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 15:50:04,545 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 15:50:04,555 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 15:50:04,558 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:50:04,561 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 15:50:04,566 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 15:50:04,569 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 15:50:04,569 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 15:50:04,601 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 15:50:04,602 - INFO - Validating dataset for response: FTL
+2026-09-03 15:50:04,602 - INFO - FTL total observations: 72
+2026-09-03 15:50:04,603 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 15:50:04,603 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 15:50:04,605 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 15:50:04,605 - INFO - Kelarutan total observations: 72
+2026-09-03 15:50:04,605 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 15:50:04,605 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 15:50:04,606 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 15:50:04,606 - INFO - Solubilitas total observations: 51
+2026-09-03 15:50:04,606 - INFO - Solubilitas (Sorbitol) observations: 51
+2026-09-03 15:50:04,606 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=1, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=1, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=1, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=2, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=2, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=3, PVA=1, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=3, PVA=2, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Solubilitas: Treatment CMC=3, PVA=3, Plasticizer=Sorbitol has 6 valid observations.
+2026-09-03 15:50:04,607 - WARNING - Duplicate observations found in Solubilitas.
+2026-09-03 15:50:04,608 - INFO - Validating dataset for response: Opasitas
+2026-09-03 15:50:04,608 - INFO - Opasitas total observations: 51
+2026-09-03 15:50:04,608 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 15:50:04,608 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 15:50:04,608 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:50:04,609 - INFO - Validating dataset for response: UTS
+2026-09-03 15:50:04,609 - INFO - UTS total observations: 51
+2026-09-03 15:50:04,609 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 15:50:04,609 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 15:50:04,609 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 15:50:04,611 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 15:50:04,639 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 15:50:04,999 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 15:50:05,560 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:50:05,713 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:50:05,995 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 15:50:09,814 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 15:50:10,172 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 15:50:10,776 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:50:11,035 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:50:11,320 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 15:50:15,223 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 15:50:15,225 - WARNING - Homogeneity of variance assumption for Solubilitas may be violated.
+2026-09-03 15:50:16,766 - INFO - Significant interaction CMC × PVA for Opasitas. Running simple effects.
+2026-09-03 15:50:17,133 - INFO - Significant interaction CMC × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:50:17,349 - INFO - Significant interaction PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:50:17,508 - INFO - Significant interaction CMC × PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 15:50:20,043 - INFO - Significant interaction CMC × PVA for UTS. Running simple effects.
+2026-09-03 15:50:20,369 - INFO - Significant interaction CMC × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:50:20,540 - INFO - Significant interaction PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:50:20,756 - INFO - Significant interaction CMC × PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 15:50:22,831 - INFO - Generating HTML report...
+2026-09-03 15:50:22,912 - INFO - HTML report saved to output/report/report.html
+2026-09-03 16:08:47,205 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 16:08:47,334 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 16:08:47,345 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 16:08:47,348 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:08:47,351 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:08:47,357 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 16:08:47,361 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 16:08:47,362 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 16:08:47,432 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 16:08:47,590 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 16:08:48,175 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 16:08:48,870 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:08:49,047 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:08:49,477 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:08:53,918 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 16:08:54,325 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 16:08:54,896 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:08:55,050 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:08:55,348 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:08:59,535 - INFO - Significant interaction CMC × PVA for Solubilitas. Running simple effects.
+2026-09-03 16:08:59,893 - INFO - Significant interaction CMC × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:09:00,123 - INFO - Significant interaction PVA × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:09:00,353 - INFO - Significant interaction CMC × PVA × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:09:03,486 - INFO - Significant interaction CMC × PVA for Opasitas. Running simple effects.
+2026-09-03 16:09:03,886 - INFO - Significant interaction CMC × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:09:04,108 - INFO - Significant interaction PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:09:04,277 - INFO - Significant interaction CMC × PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:09:06,986 - INFO - Significant interaction CMC × PVA for UTS. Running simple effects.
+2026-09-03 16:09:07,336 - INFO - Significant interaction CMC × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:09:07,511 - INFO - Significant interaction PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:09:07,737 - INFO - Significant interaction CMC × PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:09:10,021 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 16:09:10,305 - INFO - Significant interaction CMC × PVA for Elongasi. Running simple effects.
+2026-09-03 16:09:10,675 - INFO - Significant interaction CMC × Plasticizer for Elongasi. Running simple effects.
+2026-09-03 16:09:10,873 - INFO - Significant interaction CMC × PVA × Plasticizer for Elongasi. Running simple effects.
+2026-09-03 16:09:12,895 - INFO - Generating HTML report...
+2026-09-03 16:09:13,007 - INFO - HTML report saved to output/report/report.html
+2026-09-03 16:12:01,579 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 16:12:01,712 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 16:12:01,723 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 16:12:01,726 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:12:01,730 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:12:01,734 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 16:12:01,738 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 16:12:01,738 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 16:12:01,782 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 16:12:01,865 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 16:12:02,259 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 16:12:02,852 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:12:03,008 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:12:03,358 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:12:07,701 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 16:12:08,126 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 16:12:08,715 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:12:08,873 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:12:09,162 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:12:13,424 - INFO - Significant interaction CMC × PVA for Solubilitas. Running simple effects.
+2026-09-03 16:12:13,764 - INFO - Significant interaction CMC × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:12:13,980 - INFO - Significant interaction PVA × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:12:14,196 - INFO - Significant interaction CMC × PVA × Plasticizer for Solubilitas. Running simple effects.
+2026-09-03 16:12:16,973 - INFO - Significant interaction CMC × PVA for Opasitas. Running simple effects.
+2026-09-03 16:12:17,365 - INFO - Significant interaction CMC × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:12:17,598 - INFO - Significant interaction PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:12:17,766 - INFO - Significant interaction CMC × PVA × Plasticizer for Opasitas. Running simple effects.
+2026-09-03 16:12:20,547 - INFO - Significant interaction CMC × PVA for UTS. Running simple effects.
+2026-09-03 16:12:20,886 - INFO - Significant interaction CMC × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:12:21,070 - INFO - Significant interaction PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:12:21,308 - INFO - Significant interaction CMC × PVA × Plasticizer for UTS. Running simple effects.
+2026-09-03 16:12:23,615 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 16:12:23,878 - INFO - Significant interaction CMC × PVA for Elongasi. Running simple effects.
+2026-09-03 16:12:24,213 - INFO - Significant interaction CMC × Plasticizer for Elongasi. Running simple effects.
+2026-09-03 16:12:24,400 - INFO - Significant interaction CMC × PVA × Plasticizer for Elongasi. Running simple effects.
+2026-09-03 16:12:26,396 - INFO - Generating HTML report...
+2026-09-03 16:12:26,509 - INFO - HTML report saved to output/report/report.html
+2026-09-03 16:29:38,705 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 16:29:38,839 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 16:29:38,851 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 16:29:38,854 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:29:38,859 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:29:38,864 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 16:29:38,868 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 16:29:38,868 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 16:29:38,949 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 16:29:39,077 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 16:29:39,447 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 16:29:40,034 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:29:40,197 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:29:40,485 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 16:29:44,574 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 16:29:44,943 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 16:29:45,500 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:29:45,655 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:29:45,940 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 16:29:49,628 - WARNING - MODEL RANK DEFICIENT for Solubilitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 16:29:50,710 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 16:29:50,731 - WARNING - MODEL RANK DEFICIENT for Opasitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 16:29:51,673 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 16:29:51,691 - WARNING - MODEL RANK DEFICIENT for UTS. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 16:29:52,624 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 16:29:52,641 - WARNING - MODEL RANK DEFICIENT for Elongasi. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 16:29:53,720 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 16:29:53,721 - INFO - Generating HTML report...
+2026-09-03 16:29:53,784 - INFO - HTML report saved to output/report/report.html
+2026-09-03 16:40:31,684 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 16:40:31,808 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 16:40:31,818 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 16:40:31,822 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:40:31,825 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:40:31,830 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 16:40:31,833 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 16:40:31,833 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 16:40:31,877 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 16:50:04,435 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 16:50:04,569 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 16:50:04,579 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 16:50:04,582 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:50:04,585 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 16:50:04,590 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 16:50:04,593 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 16:50:04,594 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 16:50:04,636 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 16:50:06,065 - WARNING - Skipping diagnostic plots for FTL due to invalid/blocked model.
+2026-09-03 16:50:07,215 - WARNING - Skipping diagnostic plots for Kelarutan due to invalid/blocked model.
+2026-09-03 16:50:08,197 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 16:50:09,144 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 16:50:10,170 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 16:50:11,118 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 16:50:11,120 - INFO - Generating HTML report...
+2026-09-03 16:50:11,136 - INFO - HTML report saved to output/report/report.html
+2026-09-03 17:04:01,055 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 17:04:01,192 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 17:04:01,202 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 17:04:01,206 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:04:01,209 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:04:01,214 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 17:04:01,217 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 17:04:01,218 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 17:04:01,273 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 17:04:02,738 - WARNING - Skipping diagnostic plots for FTL due to invalid/blocked model.
+2026-09-03 17:04:03,762 - WARNING - Skipping diagnostic plots for Kelarutan due to invalid/blocked model.
+2026-09-03 17:04:04,729 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 17:04:05,681 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 17:04:06,666 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 17:04:07,600 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 17:04:07,602 - INFO - Generating HTML report...
+2026-09-03 17:04:07,620 - INFO - HTML report saved to output/report/report.html
+2026-09-03 17:07:39,449 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 17:07:39,583 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 17:07:39,593 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 17:07:39,597 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:07:39,600 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:07:39,606 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 17:07:39,609 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 17:07:39,610 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 17:07:39,660 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 17:07:41,225 - WARNING - Skipping diagnostic plots for FTL due to invalid/blocked model.
+2026-09-03 17:07:42,260 - WARNING - Skipping diagnostic plots for Kelarutan due to invalid/blocked model.
+2026-09-03 17:07:43,244 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 17:07:44,204 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 17:07:45,220 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 17:07:46,151 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 17:07:46,153 - INFO - Generating HTML report...
+2026-09-03 17:07:46,169 - INFO - HTML report saved to output/report/report.html
+2026-09-03 17:15:39,420 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 17:15:39,428 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 17:15:39,436 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 17:15:39,440 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:15:39,443 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:15:39,448 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 17:15:39,452 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 17:15:39,452 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 17:16:17,849 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 17:16:17,857 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 17:16:17,865 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 17:16:17,869 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:16:17,872 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 17:16:17,876 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 17:16:17,879 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 17:16:17,880 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 17:16:17,929 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 17:29:19,965 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 17:29:20,340 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 17:29:20,365 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 18:07:28,820 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 18:07:28,974 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 18:07:28,986 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 18:07:28,990 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:07:28,994 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:07:29,000 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 18:07:29,004 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 18:07:29,004 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 18:07:29,060 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 18:08:00,976 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 18:08:01,172 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 18:08:01,203 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 18:08:01,210 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:08:01,219 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:08:01,226 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 18:08:01,230 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 18:08:01,231 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 18:08:01,285 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 18:08:01,489 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 18:08:01,863 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 18:08:02,432 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:08:02,599 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:08:02,890 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:08:07,267 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 18:08:07,627 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 18:08:08,180 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:08:08,335 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:08:08,617 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:08:12,190 - WARNING - MODEL RANK DEFICIENT for Solubilitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:08:13,190 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 18:08:13,206 - WARNING - MODEL RANK DEFICIENT for Opasitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:08:14,075 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 18:08:14,093 - WARNING - MODEL RANK DEFICIENT for WVTR. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:08:14,986 - WARNING - Skipping diagnostic plots for WVTR due to invalid/blocked model.
+2026-09-03 18:08:15,000 - WARNING - MODEL RANK DEFICIENT for UTS. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:08:16,141 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 18:08:16,160 - WARNING - MODEL RANK DEFICIENT for Elongasi. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:08:17,053 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 18:09:51,106 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 18:09:51,239 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 18:09:51,249 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 18:09:51,253 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:09:51,257 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:09:51,262 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 18:09:51,266 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 18:09:51,267 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 18:09:51,319 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 18:10:25,640 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 18:10:25,788 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 18:10:25,799 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 18:10:25,803 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:10:25,807 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 18:10:25,816 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 18:10:25,823 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 18:10:25,825 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 18:10:25,924 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 18:10:26,109 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 18:10:26,507 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 18:10:27,081 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:10:27,238 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:10:27,540 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 18:10:31,649 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 18:10:32,006 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 18:10:32,552 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:10:32,704 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:10:32,982 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 18:10:36,541 - WARNING - MODEL RANK DEFICIENT for Solubilitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:10:37,549 - WARNING - Skipping diagnostic plots for Solubilitas due to invalid/blocked model.
+2026-09-03 18:10:37,564 - WARNING - MODEL RANK DEFICIENT for Opasitas. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:10:38,443 - WARNING - Skipping diagnostic plots for Opasitas due to invalid/blocked model.
+2026-09-03 18:10:38,458 - WARNING - MODEL RANK DEFICIENT for WVTR. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:10:39,350 - WARNING - Skipping diagnostic plots for WVTR due to invalid/blocked model.
+2026-09-03 18:10:39,366 - WARNING - MODEL RANK DEFICIENT for UTS. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:10:40,460 - WARNING - Skipping diagnostic plots for UTS due to invalid/blocked model.
+2026-09-03 18:10:40,477 - WARNING - MODEL RANK DEFICIENT for Elongasi. Rank=17, Cols=18. ANOVA BLOCKED.
+2026-09-03 18:10:41,367 - WARNING - Skipping diagnostic plots for Elongasi due to invalid/blocked model.
+2026-09-03 18:10:41,368 - INFO - Generating HTML report...
+2026-09-03 18:10:41,431 - INFO - HTML report saved to output/report/report.html
+2026-09-03 20:36:05,740 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 20:36:05,875 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 20:36:05,887 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 20:36:05,892 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:36:05,898 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:36:05,905 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 20:36:05,911 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 20:36:05,916 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 20:36:06,063 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 20:36:06,244 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 20:36:07,390 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 20:36:07,817 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 20:36:08,372 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:36:08,527 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:36:08,814 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:36:12,553 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 20:36:12,846 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 20:36:13,205 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 20:36:13,767 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:36:13,926 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:36:14,221 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:36:18,017 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 20:36:18,027 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 20:36:18,327 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 20:36:20,078 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 20:36:20,087 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 20:36:20,332 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 20:36:21,784 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 20:36:22,157 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 20:36:24,059 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 20:36:24,331 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 20:36:25,777 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 20:36:25,786 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 20:36:26,034 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 20:36:27,562 - INFO - Generating HTML report...
+2026-09-03 20:36:27,672 - INFO - HTML report saved to output/report/report.html
+2026-09-03 20:39:50,594 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 20:39:50,732 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 20:39:50,744 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 20:39:50,750 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:39:50,755 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:39:50,761 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 20:39:50,768 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 20:39:50,770 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 20:39:50,891 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 20:39:51,105 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 20:39:51,842 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 20:39:52,209 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 20:39:52,769 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:39:52,925 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:39:53,235 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:39:57,147 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 20:39:57,472 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 20:39:57,907 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 20:39:58,543 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:39:58,698 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:39:59,001 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:40:02,711 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 20:40:02,723 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 20:40:03,042 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 20:40:04,925 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 20:40:04,934 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 20:40:05,178 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 20:40:06,835 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 20:40:07,258 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 20:40:08,884 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 20:40:09,168 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 20:40:10,693 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 20:40:10,711 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 20:40:11,087 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 20:40:12,568 - INFO - Generating HTML report...
+2026-09-03 20:40:12,705 - INFO - HTML report saved to output/report/report.html
+2026-09-03 20:40:47,673 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 20:40:47,803 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 20:40:47,814 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 20:40:47,818 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:40:47,822 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:40:47,827 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 20:40:47,831 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 20:40:47,832 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 20:40:47,905 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 20:40:48,157 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 20:40:48,623 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 20:40:49,039 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 20:40:49,605 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:40:49,759 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:40:50,054 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:40:53,883 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 20:40:54,157 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 20:40:54,521 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 20:40:55,136 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:40:55,291 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:40:55,591 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:40:59,318 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 20:40:59,334 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 20:40:59,623 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 20:41:01,516 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 20:41:01,526 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 20:41:01,761 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 20:41:03,298 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 20:41:03,573 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 20:41:05,453 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 20:41:05,758 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 20:41:07,326 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 20:41:07,336 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 20:41:07,612 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 20:41:09,249 - INFO - Generating HTML report...
+2026-09-03 20:41:09,429 - INFO - HTML report saved to output/report/report.html
+2026-09-03 20:52:14,041 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 20:52:14,180 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 20:52:14,192 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 20:52:14,196 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:52:14,199 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:52:14,205 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 20:52:14,209 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 20:52:14,209 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 20:52:14,256 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 20:52:14,697 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 20:52:15,529 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 20:52:15,911 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 20:52:16,478 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:52:16,635 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:52:16,939 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:52:20,881 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 20:52:21,186 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 20:52:21,577 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 20:52:22,149 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:52:22,310 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:52:22,609 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:52:26,520 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 20:52:26,530 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 20:52:26,866 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 20:52:28,740 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 20:52:28,752 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 20:52:29,023 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 20:52:30,561 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 20:52:30,940 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 20:52:32,706 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 20:52:33,008 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 20:52:34,763 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 20:52:34,772 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 20:52:35,182 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 20:52:36,811 - INFO - Generating HTML report...
+2026-09-03 20:52:36,983 - INFO - HTML report saved to output/report/report.html
+2026-09-03 20:53:35,145 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 20:53:35,274 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 20:53:35,291 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 20:53:35,306 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:53:35,318 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 20:53:35,330 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 20:53:35,338 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 20:53:35,341 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 20:53:35,559 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 20:53:35,776 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 20:53:36,324 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 20:53:36,719 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 20:53:37,303 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:53:37,465 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:53:37,798 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 20:53:41,819 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 20:53:42,135 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 20:53:42,513 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 20:53:43,083 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:53:43,244 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:53:43,597 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 20:53:47,288 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 20:53:47,299 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 20:53:47,620 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 20:53:49,489 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 20:53:49,498 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 20:53:49,765 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 20:53:51,238 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 20:53:51,560 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 20:53:53,469 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 20:53:53,744 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 20:53:55,441 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 20:53:55,452 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 20:53:55,747 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 20:53:57,779 - INFO - Generating HTML report...
+2026-09-03 20:53:57,955 - INFO - HTML report saved to output/report/report.html
+2026-09-03 21:03:22,457 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:03:22,585 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:03:22,597 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:03:22,602 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:03:22,607 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:03:22,618 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:03:22,633 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:03:22,644 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:03:23,014 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:03:23,448 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:03:24,588 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:03:25,040 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:03:25,615 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:03:25,768 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:03:26,059 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:03:29,923 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:03:30,231 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:03:30,598 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:03:31,187 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:03:31,345 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:03:31,636 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:03:35,557 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:03:35,570 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:03:35,893 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:03:37,730 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:03:37,740 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:03:38,022 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:03:39,712 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:03:40,104 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:03:41,984 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:03:42,323 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:03:43,959 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:03:43,969 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:03:44,284 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:03:46,081 - INFO - Generating HTML report...
+2026-09-03 21:03:46,237 - INFO - HTML report saved to output/report/report.html
+2026-09-03 21:05:10,095 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:05:10,224 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:05:10,234 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:05:10,238 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:05:10,242 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:05:10,248 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:05:10,251 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:05:10,252 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:05:10,304 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:05:10,601 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:05:11,225 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:05:11,726 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:05:12,376 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:05:12,557 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:05:12,915 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:05:17,292 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:05:17,598 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:05:18,035 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:05:18,692 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:05:18,878 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:05:19,231 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:05:23,448 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:05:23,460 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:05:23,784 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:05:25,743 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:05:25,752 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:05:26,006 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:05:27,830 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:05:28,152 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:05:30,044 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:05:30,434 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:05:32,131 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:05:32,139 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:05:32,409 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:05:34,007 - INFO - Generating HTML report...
+2026-09-03 21:05:34,241 - INFO - HTML report saved to output/report/report.html
+2026-09-03 21:17:10,339 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:17:10,493 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:17:10,506 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:17:10,513 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:17:10,520 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:17:10,527 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:17:10,532 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:17:10,534 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:17:10,670 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:17:11,158 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:17:12,146 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:17:12,525 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:17:13,093 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:17:13,258 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:17:13,548 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:17:17,549 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:17:17,820 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:17:18,181 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:17:18,734 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:17:18,891 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:17:19,175 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:17:22,819 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:17:22,828 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:17:23,177 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:17:24,959 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:17:24,967 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:17:25,218 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:17:26,623 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:17:26,890 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:17:28,496 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:17:28,774 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:17:30,435 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:17:30,445 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:17:30,719 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:17:32,239 - INFO - Generating HTML report...
+2026-09-03 21:17:32,365 - INFO - HTML report saved to output/report/report.html
+2026-09-03 21:25:56,878 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:25:57,022 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:25:57,033 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:25:57,037 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:25:57,042 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:25:57,049 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:25:57,054 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:25:57,056 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:25:57,191 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:25:57,905 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:25:58,752 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:25:59,180 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:25:59,783 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:25:59,980 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:26:00,408 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:26:04,572 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:26:04,988 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:26:05,366 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:26:05,935 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:26:06,090 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:26:06,383 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:26:10,565 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:26:10,577 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:26:10,892 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:26:13,000 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:26:13,009 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:26:13,291 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:26:14,933 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:26:15,344 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:26:17,139 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:26:17,467 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:26:18,948 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:26:18,956 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:26:19,215 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:26:21,155 - INFO - Generating HTML report...
+2026-09-03 21:27:18,654 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:27:18,799 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:27:18,812 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:27:18,816 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:27:18,821 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:27:18,827 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:27:18,831 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:27:18,832 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:27:18,911 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:27:19,299 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:27:20,211 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:27:20,604 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:27:21,174 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:27:21,330 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:27:21,634 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:27:25,664 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:27:25,926 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:27:26,293 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:27:26,861 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:27:27,016 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:27:27,321 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:27:31,325 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:27:31,338 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:27:31,729 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:27:33,664 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:27:33,674 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:27:33,935 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:27:35,573 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:27:35,874 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:27:37,948 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:27:38,302 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:27:39,817 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:27:39,826 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:27:40,112 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:27:41,992 - INFO - Generating HTML report...
+2026-09-03 21:28:18,869 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:28:18,994 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:28:19,005 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:28:19,009 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:28:19,013 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:28:19,018 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:28:19,022 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:28:19,023 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:28:19,069 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:28:19,328 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:28:19,974 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:28:20,353 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:28:20,933 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:28:21,090 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:28:21,381 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:28:25,319 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:28:25,618 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:28:25,984 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:28:26,547 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:28:26,707 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:28:27,014 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:28:30,863 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:28:30,873 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:28:31,174 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:28:33,016 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:28:33,025 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:28:33,317 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:28:35,032 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:28:35,309 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:28:37,044 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:28:37,356 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:28:39,114 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:28:39,124 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:28:39,591 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:28:41,312 - INFO - Generating HTML report...
+2026-09-03 21:28:41,363 - INFO - HTML report saved to output/report/report.html
+2026-09-03 21:37:36,714 - INFO - Starting conversion for data/pengujian (ANOVA).xlsx
+2026-09-03 21:37:36,860 - INFO - Sheets detected: ['Kelarutan Matriks', 'Opasitas', 'Solubilitas', 'WVTR', 'UTS & elong', 'Sheet6']
+2026-09-03 21:37:36,872 - INFO - Sheet 'Kelarutan Matriks' processed. Status: Success. Rows: 78.
+2026-09-03 21:37:36,877 - INFO - Sheet 'Opasitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:37:36,881 - INFO - Sheet 'Solubilitas' processed. Status: Success. Rows: 55.
+2026-09-03 21:37:36,887 - INFO - Sheet 'WVTR' processed. Status: Success. Rows: 55.
+2026-09-03 21:37:36,891 - INFO - Sheet 'UTS & elong' processed. Status: Success. Rows: 56.
+2026-09-03 21:37:36,892 - INFO - Sheet 'Sheet6' processed. Status: Success. Rows: 0.
+2026-09-03 21:37:36,946 - WARNING - File output/raw_csv/pengujian (ANOVA)_Sheet6.csv is empty. Skipping.
+2026-09-03 21:37:37,202 - WARNING - Residual normality assumption for FTL may be violated.
+2026-09-03 21:37:38,166 - INFO - Flagged 5 potential outliers for FTL (NOT deleted).
+2026-09-03 21:37:38,571 - INFO - Significant interaction CMC × PVA for FTL. Running simple effects.
+2026-09-03 21:37:39,126 - INFO - Significant interaction CMC × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:37:39,280 - INFO - Significant interaction PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:37:39,564 - INFO - Significant interaction CMC × PVA × Plasticizer for FTL. Running simple effects.
+2026-09-03 21:37:43,268 - WARNING - Residual normality assumption for Kelarutan may be violated.
+2026-09-03 21:37:43,529 - INFO - Flagged 5 potential outliers for Kelarutan (NOT deleted).
+2026-09-03 21:37:43,886 - INFO - Significant interaction CMC × PVA for Kelarutan. Running simple effects.
+2026-09-03 21:37:44,447 - INFO - Significant interaction CMC × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:37:44,615 - INFO - Significant interaction PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:37:44,902 - INFO - Significant interaction CMC × PVA × Plasticizer for Kelarutan. Running simple effects.
+2026-09-03 21:37:48,567 - INFO - Using alternative model Main Effects for Solubilitas due to rank deficiency.
+2026-09-03 21:37:48,580 - WARNING - Residual normality assumption for Solubilitas may be violated.
+2026-09-03 21:37:48,887 - INFO - Flagged 1 potential outliers for Solubilitas (NOT deleted).
+2026-09-03 21:37:50,893 - INFO - Using alternative model Main Effects for Opasitas due to rank deficiency.
+2026-09-03 21:37:50,901 - WARNING - Residual normality assumption for Opasitas may be violated.
+2026-09-03 21:37:51,167 - INFO - Flagged 3 potential outliers for Opasitas (NOT deleted).
+2026-09-03 21:37:52,595 - INFO - Using alternative model Main Effects for WVTR due to rank deficiency.
+2026-09-03 21:37:52,846 - INFO - Flagged 3 potential outliers for WVTR (NOT deleted).
+2026-09-03 21:37:54,370 - INFO - Using alternative model Main Effects for UTS due to rank deficiency.
+2026-09-03 21:37:54,628 - INFO - Flagged 2 potential outliers for UTS (NOT deleted).
+2026-09-03 21:37:56,036 - INFO - Using alternative model Main Effects for Elongasi due to rank deficiency.
+2026-09-03 21:37:56,044 - WARNING - Residual normality assumption for Elongasi may be violated.
+2026-09-03 21:37:56,317 - INFO - Flagged 2 potential outliers for Elongasi (NOT deleted).
+2026-09-03 21:37:57,899 - INFO - Generating HTML report...
+2026-09-03 21:37:57,940 - INFO - HTML report saved to output/report/report.html

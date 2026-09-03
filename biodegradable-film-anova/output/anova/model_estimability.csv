@@ -1,0 +1,6 @@
+Response,Deficiency_Source
+Solubilitas,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+Opasitas,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+WVTR,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+UTS,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+Elongasi,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]

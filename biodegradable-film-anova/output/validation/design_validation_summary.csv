@@ -1,0 +1,9 @@
+Response,Planned_CMC_Levels,Observed_CMC_Levels,Planned_PVA_Levels,Observed_PVA_Levels,Planned_Plasticizer_Levels,Observed_Plasticizer_Levels,Planned_Replicate_Levels,Observed_Replicate_Levels,Planned_N,Observed_N,Missing_Cells,Missing_Replicates,Duplicates,Unexpected_Cells,Design_Status,Model_Status,ANOVA_Status
+FTL,3,3,4,4,2,2,3,3,72,72,0,0,0,0,COMPLETE,TBD,TBD
+Kelarutan,3,3,4,4,2,2,3,3,72,72,0,0,0,0,COMPLETE,TBD,TBD
+Formability,3,3,4,4,2,2,3,3,72,74,0,0,0,0,INCOMPLETE,TBD,TBD
+Opasitas,3,3,4,3,2,2,3,3,51,51,0,0,0,0,COMPLETE,TBD,TBD
+Solubilitas,3,3,4,3,2,2,3,3,51,51,0,0,0,0,COMPLETE,TBD,TBD
+WVTR,3,3,4,3,2,2,3,3,51,51,0,0,0,0,COMPLETE,TBD,TBD
+UTS,3,3,4,3,2,2,3,3,51,51,0,0,0,0,COMPLETE,TBD,TBD
+Elongasi,3,3,4,3,2,2,3,3,51,51,0,0,0,0,COMPLETE,TBD,TBD

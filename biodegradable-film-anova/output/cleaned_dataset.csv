@@ -1,0 +1,474 @@
+Sheet,Response,Formulation,Replicate,CMC,PVA,Plasticizer,source_file,source_sheet,source_block,source_row,Value
+Kelarutan Matriks,FTL,A,1.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,4,14.999999999999991
+Kelarutan Matriks,FTL,A,2.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,5,14.799999999999969
+Kelarutan Matriks,FTL,A,3.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,6,15.1
+Kelarutan Matriks,FTL,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,7,6.35
+Kelarutan Matriks,FTL,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,8,5.949999999999999
+Kelarutan Matriks,FTL,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,9,6.25
+Kelarutan Matriks,FTL,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,10,2.7666666666666657
+Kelarutan Matriks,FTL,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,11,2.8333333333333393
+Kelarutan Matriks,FTL,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,12,2.6666666666666687
+Kelarutan Matriks,FTL,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,13,2.950000000000003
+Kelarutan Matriks,FTL,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,14,2.9999999999999973
+Kelarutan Matriks,FTL,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,15,2.9749999999999996
+Kelarutan Matriks,FTL,E,1.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,16,9.099999999999998
+Kelarutan Matriks,FTL,E,2.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,17,8.800000000000008
+Kelarutan Matriks,FTL,E,3.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,18,9.249999999999991
+Kelarutan Matriks,FTL,F,1.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,19,8.933333333333334
+Kelarutan Matriks,FTL,F,2.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,20,8.833333333333337
+Kelarutan Matriks,FTL,F,3.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,21,8.933333333333326
+Kelarutan Matriks,FTL,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,22,3.775
+Kelarutan Matriks,FTL,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,23,3.8250000000000006
+Kelarutan Matriks,FTL,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,24,3.650000000000003
+Kelarutan Matriks,FTL,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,25,2.8600000000000003
+Kelarutan Matriks,FTL,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,26,2.9000000000000004
+Kelarutan Matriks,FTL,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,27,2.8200000000000047
+Kelarutan Matriks,FTL,I,1.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,28,13.76666666666666
+Kelarutan Matriks,FTL,I,2.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,29,13.800000000000004
+Kelarutan Matriks,FTL,I,3.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,30,13.73333333333333
+Kelarutan Matriks,FTL,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,31,9.949999999999992
+Kelarutan Matriks,FTL,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,32,9.849999999999998
+Kelarutan Matriks,FTL,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,33,9.949999999999998
+Kelarutan Matriks,FTL,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,34,4.019999999999997
+Kelarutan Matriks,FTL,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,35,4.019999999999997
+Kelarutan Matriks,FTL,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,36,3.979999999999997
+Kelarutan Matriks,FTL,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,37,3.4499999999999975
+Kelarutan Matriks,FTL,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,38,3.4999999999999996
+Kelarutan Matriks,FTL,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,39,3.300000000000003
+Kelarutan Matriks,FTL,A,1.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,44,14.399999999999991
+Kelarutan Matriks,FTL,A,2.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,45,13.900000000000023
+Kelarutan Matriks,FTL,A,3.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,46,14.700000000000024
+Kelarutan Matriks,FTL,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,47,8.200000000000006
+Kelarutan Matriks,FTL,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,48,8.299999999999997
+Kelarutan Matriks,FTL,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,49,7.9999999999999964
+Kelarutan Matriks,FTL,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,50,4.799999999999996
+Kelarutan Matriks,FTL,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,51,4.899999999999993
+Kelarutan Matriks,FTL,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,52,4.966666666666667
+Kelarutan Matriks,FTL,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,53,2.200000000000002
+Kelarutan Matriks,FTL,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,54,2.1999999999999966
+Kelarutan Matriks,FTL,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,55,2.3249999999999993
+Kelarutan Matriks,FTL,E,1.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,56,4.600000000000004
+Kelarutan Matriks,FTL,E,2.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,57,4.649999999999999
+Kelarutan Matriks,FTL,E,3.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,58,4.449999999999998
+Kelarutan Matriks,FTL,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,59,9.933333333333326
+Kelarutan Matriks,FTL,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,60,10.033333333333331
+Kelarutan Matriks,FTL,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,61,9.766666666666664
+Kelarutan Matriks,FTL,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,62,5.450000000000005
+Kelarutan Matriks,FTL,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,63,5.499999999999994
+Kelarutan Matriks,FTL,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,64,5.449999999999999
+Kelarutan Matriks,FTL,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,65,2.34
+Kelarutan Matriks,FTL,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,66,2.2799999999999976
+Kelarutan Matriks,FTL,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,67,2.38
+Kelarutan Matriks,FTL,I,1.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,68,13.233333333333327
+Kelarutan Matriks,FTL,I,2.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,69,13.233333333333333
+Kelarutan Matriks,FTL,I,3.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,70,13.1
+Kelarutan Matriks,FTL,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,71,8.375000000000005
+Kelarutan Matriks,FTL,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,72,8.274999999999999
+Kelarutan Matriks,FTL,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,73,8.400000000000002
+Kelarutan Matriks,FTL,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,74,3.700000000000001
+Kelarutan Matriks,FTL,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,75,3.5800000000000054
+Kelarutan Matriks,FTL,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,76,3.759999999999999
+Kelarutan Matriks,FTL,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,77,2.2333333333333356
+Kelarutan Matriks,FTL,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,78,2.2333333333333356
+Kelarutan Matriks,FTL,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,79,2.316666666666663
+Kelarutan Matriks,Kelarutan,A,1.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,4,85.00000000000001
+Kelarutan Matriks,Kelarutan,A,2.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,5,85.20000000000003
+Kelarutan Matriks,Kelarutan,A,3.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,6,84.9
+Kelarutan Matriks,Kelarutan,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,7,93.65
+Kelarutan Matriks,Kelarutan,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,8,94.05
+Kelarutan Matriks,Kelarutan,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,9,93.75
+Kelarutan Matriks,Kelarutan,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,10,97.23333333333332
+Kelarutan Matriks,Kelarutan,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,11,97.16666666666666
+Kelarutan Matriks,Kelarutan,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,12,97.33333333333331
+Kelarutan Matriks,Kelarutan,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,13,97.05
+Kelarutan Matriks,Kelarutan,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,14,97.0
+Kelarutan Matriks,Kelarutan,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,15,97.025
+Kelarutan Matriks,Kelarutan,E,1.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,16,90.9
+Kelarutan Matriks,Kelarutan,E,2.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,17,91.2
+Kelarutan Matriks,Kelarutan,E,3.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,18,90.75
+Kelarutan Matriks,Kelarutan,F,1.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,19,91.06666666666666
+Kelarutan Matriks,Kelarutan,F,2.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,20,91.16666666666666
+Kelarutan Matriks,Kelarutan,F,3.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,21,91.06666666666668
+Kelarutan Matriks,Kelarutan,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,22,96.225
+Kelarutan Matriks,Kelarutan,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,23,96.175
+Kelarutan Matriks,Kelarutan,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,24,96.35
+Kelarutan Matriks,Kelarutan,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,25,97.14
+Kelarutan Matriks,Kelarutan,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,26,97.1
+Kelarutan Matriks,Kelarutan,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,27,97.18
+Kelarutan Matriks,Kelarutan,I,1.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,28,86.23333333333333
+Kelarutan Matriks,Kelarutan,I,2.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,29,86.19999999999999
+Kelarutan Matriks,Kelarutan,I,3.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,30,86.26666666666667
+Kelarutan Matriks,Kelarutan,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,31,90.05000000000001
+Kelarutan Matriks,Kelarutan,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,32,90.15
+Kelarutan Matriks,Kelarutan,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,33,90.05
+Kelarutan Matriks,Kelarutan,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,34,95.98
+Kelarutan Matriks,Kelarutan,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,35,95.98
+Kelarutan Matriks,Kelarutan,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,36,96.02
+Kelarutan Matriks,Kelarutan,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,37,96.55
+Kelarutan Matriks,Kelarutan,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,38,96.5
+Kelarutan Matriks,Kelarutan,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,39,96.7
+Kelarutan Matriks,Kelarutan,A,1.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,44,85.60000000000001
+Kelarutan Matriks,Kelarutan,A,2.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,45,86.09999999999998
+Kelarutan Matriks,Kelarutan,A,3.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,46,85.29999999999998
+Kelarutan Matriks,Kelarutan,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,47,91.8
+Kelarutan Matriks,Kelarutan,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,48,91.7
+Kelarutan Matriks,Kelarutan,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,49,92.0
+Kelarutan Matriks,Kelarutan,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,50,95.2
+Kelarutan Matriks,Kelarutan,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,51,95.1
+Kelarutan Matriks,Kelarutan,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,52,95.03333333333332
+Kelarutan Matriks,Kelarutan,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,53,97.8
+Kelarutan Matriks,Kelarutan,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,54,97.8
+Kelarutan Matriks,Kelarutan,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,55,97.675
+Kelarutan Matriks,Kelarutan,E,1.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,56,95.4
+Kelarutan Matriks,Kelarutan,E,2.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,57,95.35
+Kelarutan Matriks,Kelarutan,E,3.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,58,95.55
+Kelarutan Matriks,Kelarutan,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,59,90.06666666666668
+Kelarutan Matriks,Kelarutan,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,60,89.96666666666667
+Kelarutan Matriks,Kelarutan,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,61,90.23333333333332
+Kelarutan Matriks,Kelarutan,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,62,94.55
+Kelarutan Matriks,Kelarutan,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,63,94.5
+Kelarutan Matriks,Kelarutan,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,64,94.55
+Kelarutan Matriks,Kelarutan,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,65,97.66
+Kelarutan Matriks,Kelarutan,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,66,97.72
+Kelarutan Matriks,Kelarutan,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,67,97.62
+Kelarutan Matriks,Kelarutan,I,1.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,68,86.76666666666668
+Kelarutan Matriks,Kelarutan,I,2.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,69,86.76666666666667
+Kelarutan Matriks,Kelarutan,I,3.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,70,86.9
+Kelarutan Matriks,Kelarutan,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,71,91.625
+Kelarutan Matriks,Kelarutan,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,72,91.725
+Kelarutan Matriks,Kelarutan,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,73,91.6
+Kelarutan Matriks,Kelarutan,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,74,96.3
+Kelarutan Matriks,Kelarutan,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,75,96.42
+Kelarutan Matriks,Kelarutan,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,76,96.24
+Kelarutan Matriks,Kelarutan,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,77,97.76666666666668
+Kelarutan Matriks,Kelarutan,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,78,97.76666666666668
+Kelarutan Matriks,Kelarutan,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,79,97.68333333333334
+Kelarutan Matriks,Formability,,,,,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,3,True
+Kelarutan Matriks,Formability,A,1.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,4,
+Kelarutan Matriks,Formability,A,2.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,5,
+Kelarutan Matriks,Formability,A,3.0,1.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,6,
+Kelarutan Matriks,Formability,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,7,ü
+Kelarutan Matriks,Formability,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,8,ü
+Kelarutan Matriks,Formability,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,9,ü
+Kelarutan Matriks,Formability,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,10,ü
+Kelarutan Matriks,Formability,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,11,ü
+Kelarutan Matriks,Formability,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,12,ü
+Kelarutan Matriks,Formability,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,13,ü
+Kelarutan Matriks,Formability,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,14,ü
+Kelarutan Matriks,Formability,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,15,ü
+Kelarutan Matriks,Formability,E,1.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,16,
+Kelarutan Matriks,Formability,E,2.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,17,
+Kelarutan Matriks,Formability,E,3.0,2.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,18,
+Kelarutan Matriks,Formability,F,1.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,19,
+Kelarutan Matriks,Formability,F,2.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,20,
+Kelarutan Matriks,Formability,F,3.0,2.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,21,
+Kelarutan Matriks,Formability,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,22,ü
+Kelarutan Matriks,Formability,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,23,ü
+Kelarutan Matriks,Formability,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,24,ü
+Kelarutan Matriks,Formability,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,25,ü
+Kelarutan Matriks,Formability,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,26,ü
+Kelarutan Matriks,Formability,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,27,ü
+Kelarutan Matriks,Formability,I,1.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,28,
+Kelarutan Matriks,Formability,I,2.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,29,
+Kelarutan Matriks,Formability,I,3.0,3.0,0.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,30,
+Kelarutan Matriks,Formability,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,31,ü
+Kelarutan Matriks,Formability,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,32,ü
+Kelarutan Matriks,Formability,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,33,ü
+Kelarutan Matriks,Formability,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,34,ü
+Kelarutan Matriks,Formability,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,35,ü
+Kelarutan Matriks,Formability,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,36,ü
+Kelarutan Matriks,Formability,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,37,ü
+Kelarutan Matriks,Formability,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,38,ü
+Kelarutan Matriks,Formability,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Sorbitol,39,ü
+Kelarutan Matriks,Formability,L,,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,43,True
+Kelarutan Matriks,Formability,A,1.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,44,
+Kelarutan Matriks,Formability,A,2.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,45,
+Kelarutan Matriks,Formability,A,3.0,1.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,46,
+Kelarutan Matriks,Formability,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,47,ü
+Kelarutan Matriks,Formability,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,48,ü
+Kelarutan Matriks,Formability,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,49,ü
+Kelarutan Matriks,Formability,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,50,ü
+Kelarutan Matriks,Formability,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,51,ü
+Kelarutan Matriks,Formability,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,52,ü
+Kelarutan Matriks,Formability,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,53,ü
+Kelarutan Matriks,Formability,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,54,ü
+Kelarutan Matriks,Formability,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,55,ü
+Kelarutan Matriks,Formability,E,1.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,56,
+Kelarutan Matriks,Formability,E,2.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,57,
+Kelarutan Matriks,Formability,E,3.0,2.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,58,
+Kelarutan Matriks,Formability,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,59,ü
+Kelarutan Matriks,Formability,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,60,ü
+Kelarutan Matriks,Formability,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,61,ü
+Kelarutan Matriks,Formability,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,62,ü
+Kelarutan Matriks,Formability,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,63,ü
+Kelarutan Matriks,Formability,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,64,ü
+Kelarutan Matriks,Formability,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,65,ü
+Kelarutan Matriks,Formability,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,66,ü
+Kelarutan Matriks,Formability,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,67,ü
+Kelarutan Matriks,Formability,I,1.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,68,
+Kelarutan Matriks,Formability,I,2.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,69,
+Kelarutan Matriks,Formability,I,3.0,3.0,0.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,70,
+Kelarutan Matriks,Formability,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,71,ü
+Kelarutan Matriks,Formability,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,72,ü
+Kelarutan Matriks,Formability,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,73,ü
+Kelarutan Matriks,Formability,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,74,ü
+Kelarutan Matriks,Formability,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,75,ü
+Kelarutan Matriks,Formability,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,76,ü
+Kelarutan Matriks,Formability,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,77,ü
+Kelarutan Matriks,Formability,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,78,ü
+Kelarutan Matriks,Formability,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Kelarutan_Matriks,Kelarutan Matriks,Gliserol,79,ü
+Opasitas,Opasitas,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,3,1.4939759036144578
+Opasitas,Opasitas,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,4,1.5180722891566265
+Opasitas,Opasitas,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,5,1.469879518072289
+Opasitas,Opasitas,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,6,1.631578947368421
+Opasitas,Opasitas,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,7,1.6578947368421053
+Opasitas,Opasitas,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,8,1.6052631578947367
+Opasitas,Opasitas,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,9,1.8095238095238095
+Opasitas,Opasitas,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,10,1.8333333333333337
+Opasitas,Opasitas,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,11,1.7857142857142858
+Opasitas,Opasitas,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,12,1.8584070796460177
+Opasitas,Opasitas,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,13,1.8761061946902653
+Opasitas,Opasitas,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,14,1.8407079646017697
+Opasitas,Opasitas,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,15,1.9402985074626864
+Opasitas,Opasitas,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,16,1.958955223880597
+Opasitas,Opasitas,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,17,1.921641791044776
+Opasitas,Opasitas,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,18,2.142857142857143
+Opasitas,Opasitas,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,19,2.157142857142857
+Opasitas,Opasitas,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,20,2.128571428571428
+Opasitas,Opasitas,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,21,2.347826086956522
+Opasitas,Opasitas,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,22,2.3043478260869565
+Opasitas,Opasitas,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,23,2.391304347826087
+Opasitas,Opasitas,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,24,2.526315789473684
+Opasitas,Opasitas,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,25,2.5473684210526315
+Opasitas,Opasitas,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Opasitas,Opasitas,Sorbitol,26,2.5105263157894737
+Opasitas,Opasitas,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,30,1.3541666666666667
+Opasitas,Opasitas,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,31,1.3958333333333337
+Opasitas,Opasitas,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,32,1.3125
+Opasitas,Opasitas,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,33,1.523809523809524
+Opasitas,Opasitas,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,34,1.542857142857143
+Opasitas,Opasitas,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,35,1.5047619047619047
+Opasitas,Opasitas,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,36,0.9466666666666668
+Opasitas,Opasitas,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,37,0.9666666666666668
+Opasitas,Opasitas,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,38,0.9333333333333336
+Opasitas,Opasitas,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,39,1.8367346938775508
+Opasitas,Opasitas,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,40,1.857142857142857
+Opasitas,Opasitas,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,41,1.8163265306122447
+Opasitas,Opasitas,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,42,1.9166666666666667
+Opasitas,Opasitas,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,43,1.9583333333333333
+Opasitas,Opasitas,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,44,1.875
+Opasitas,Opasitas,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,45,2.035714285714285
+Opasitas,Opasitas,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,46,2.057142857142857
+Opasitas,Opasitas,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,47,2.014285714285714
+Opasitas,Opasitas,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,48,2.26027397260274
+Opasitas,Opasitas,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,49,2.301369863013699
+Opasitas,Opasitas,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,50,2.219178082191781
+Opasitas,Opasitas,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,51,2.424242424242424
+Opasitas,Opasitas,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,52,2.4494949494949494
+Opasitas,Opasitas,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,53,2.398989898989899
+Opasitas,Opasitas,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,54,2.592592592592593
+Opasitas,Opasitas,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,55,2.638888888888889
+Opasitas,Opasitas,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Opasitas,Opasitas,Gliserol,56,2.5462962962962967
+Solubilitas,Solubilitas,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,3,0.6202531645569617
+Solubilitas,Solubilitas,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,4,0.617283950617285
+Solubilitas,Solubilitas,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,5,0.6351351351351363
+Solubilitas,Solubilitas,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,6,0.5918367346938772
+Solubilitas,Solubilitas,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,7,0.6041666666666686
+Solubilitas,Solubilitas,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,8,0.5918367346938772
+Solubilitas,Solubilitas,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,9,0.3813559322033902
+Solubilitas,Solubilitas,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,10,0.3750000000000003
+Solubilitas,Solubilitas,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,11,0.3697478991596642
+Solubilitas,Solubilitas,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,12,0.5217391304347838
+Solubilitas,Solubilitas,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,13,0.5289855072463773
+Solubilitas,Solubilitas,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,14,0.5214285714285702
+Solubilitas,Solubilitas,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,15,0.3359375000000003
+Solubilitas,Solubilitas,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,16,0.3333333333333327
+Solubilitas,Solubilitas,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,17,0.3333333333333327
+Solubilitas,Solubilitas,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,18,0.4032786885245903
+Solubilitas,Solubilitas,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,19,0.3933333333333327
+Solubilitas,Solubilitas,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,20,0.4072847682119203
+Solubilitas,Solubilitas,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,21,0.345
+Solubilitas,Solubilitas,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,22,0.3383084577114428
+Solubilitas,Solubilitas,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,23,0.3399999999999994
+Solubilitas,Solubilitas,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,24,0.3177083333333333
+Solubilitas,Solubilitas,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,25,0.3177083333333333
+Solubilitas,Solubilitas,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_Solubilitas,Solubilitas,Sorbitol,26,0.3157894736842111
+Solubilitas,Solubilitas,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,30,0.6886792452830155
+Solubilitas,Solubilitas,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,31,0.6822429906542054
+Solubilitas,Solubilitas,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,32,0.6886792452830196
+Solubilitas,Solubilitas,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,33,0.5789473684210523
+Solubilitas,Solubilitas,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,34,0.5740740740740716
+Solubilitas,Solubilitas,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,35,0.5689655172413809
+Solubilitas,Solubilitas,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,36,0.5263157894736837
+Solubilitas,Solubilitas,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,37,0.5352112676056318
+Solubilitas,Solubilitas,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,38,0.5384615384615409
+Solubilitas,Solubilitas,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,39,0.6449704142011845
+Solubilitas,Solubilitas,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,40,0.6449704142011832
+Solubilitas,Solubilitas,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,41,0.6529411764705899
+Solubilitas,Solubilitas,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,42,0.562500000000001
+Solubilitas,Solubilitas,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,43,0.5555555555555551
+Solubilitas,Solubilitas,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,44,0.5432098765432081
+Solubilitas,Solubilitas,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,45,0.513513513513516
+Solubilitas,Solubilitas,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,46,0.5256410256410267
+Solubilitas,Solubilitas,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,47,0.5263157894736837
+Solubilitas,Solubilitas,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,48,0.6648936170212769
+Solubilitas,Solubilitas,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,49,0.6631016042780752
+Solubilitas,Solubilitas,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,50,0.6648936170212769
+Solubilitas,Solubilitas,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,51,0.5094339622641505
+Solubilitas,Solubilitas,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,52,0.5096774193548411
+Solubilitas,Solubilitas,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,53,0.5031055900621114
+Solubilitas,Solubilitas,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,54,0.5531914893617017
+Solubilitas,Solubilitas,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,55,0.5543478260869573
+Solubilitas,Solubilitas,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_Solubilitas,Solubilitas,Gliserol,56,0.5473684210526347
+WVTR,WVTR,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,3,12.992251226485246
+WVTR,WVTR,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,4,11.548667756874066
+WVTR,WVTR,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,5,12.118887521193257
+WVTR,WVTR,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,6,10.82687602207104
+WVTR,WVTR,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,7,12.270459491677093
+WVTR,WVTR,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,8,11.017766318618635
+WVTR,WVTR,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,9,7.21791734804565
+WVTR,WVTR,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,10,6.496125613242623
+WVTR,WVTR,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,11,5.774333878439597
+WVTR,WVTR,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,12,11.548667756879194
+WVTR,WVTR,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,13,10.105084287268014
+WVTR,WVTR,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,14,11.361457051120356
+WVTR,WVTR,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,15,5.774333878439597
+WVTR,WVTR,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,16,6.496125613242623
+WVTR,WVTR,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,17,5.508883159311765
+WVTR,WVTR,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,18,8.661500817656831
+WVTR,WVTR,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,19,7.21791734804565
+WVTR,WVTR,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,20,7.939709082853805
+WVTR,WVTR,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,21,6.496125613242623
+WVTR,WVTR,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,22,5.774333878439597
+WVTR,WVTR,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,23,7.574304700745111
+WVTR,WVTR,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,24,5.774333878439597
+WVTR,WVTR,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,25,4.820272764394736
+WVTR,WVTR,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_WVTR,WVTR,Sorbitol,26,6.496125613242623
+WVTR,WVTR,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,30,14.391178931422708
+WVTR,WVTR,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,31,14.460818293184207
+WVTR,WVTR,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,32,12.992251226480118
+WVTR,WVTR,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,33,12.992251226485246
+WVTR,WVTR,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,34,11.361457051120356
+WVTR,WVTR,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,35,11.548667756874066
+WVTR,WVTR,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,36,11.017766318618635
+WVTR,WVTR,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,37,10.105084287268014
+WVTR,WVTR,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,38,11.361457051120356
+WVTR,WVTR,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,39,13.7140429612934
+WVTR,WVTR,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,40,12.27045949168222
+WVTR,WVTR,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,41,13.772207898272072
+WVTR,WVTR,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,42,12.118887521193257
+WVTR,WVTR,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,43,10.82687602207104
+WVTR,WVTR,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,44,12.27045949168222
+WVTR,WVTR,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,45,10.105084287262883
+WVTR,WVTR,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,46,11.017766318618635
+WVTR,WVTR,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,47,10.60402658104746
+WVTR,WVTR,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,48,12.992251226485246
+WVTR,WVTR,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,49,14.435834696096428
+WVTR,WVTR,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,50,13.083597503359936
+WVTR,WVTR,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,51,10.60402658104746
+WVTR,WVTR,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,52,10.82687602206591
+WVTR,WVTR,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,53,9.383292552459858
+WVTR,WVTR,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,54,10.329155923701608
+WVTR,WVTR,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,55,11.361457051120356
+WVTR,WVTR,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_WVTR,WVTR,Gliserol,56,10.105084287268014
+UTS & elong,UTS,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,3,0.3012048192771084
+UTS & elong,UTS,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,4,0.36144578313253
+UTS & elong,UTS,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,5,0.180722891566265
+UTS & elong,UTS,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,6,1.0526315789473684
+UTS & elong,UTS,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,7,1.5789473684210529
+UTS & elong,UTS,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,8,1.0526315789473684
+UTS & elong,UTS,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,9,3.333333333333333
+UTS & elong,UTS,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,10,4.285714285714286
+UTS & elong,UTS,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,11,4.761904761904762
+UTS & elong,UTS,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,12,1.7699115044247786
+UTS & elong,UTS,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,13,1.7699115044247786
+UTS & elong,UTS,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,14,0.8849557522123893
+UTS & elong,UTS,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,15,1.8656716417910448
+UTS & elong,UTS,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,16,1.4925373134328357
+UTS & elong,UTS,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,17,1.4925373134328357
+UTS & elong,UTS,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,18,0.9523809523809524
+UTS & elong,UTS,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,19,0.4761904761904761
+UTS & elong,UTS,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,20,0.9523809523809524
+UTS & elong,UTS,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,21,2.6086956521739126
+UTS & elong,UTS,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,22,1.7391304347826084
+UTS & elong,UTS,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,23,1.7391304347826084
+UTS & elong,UTS,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,24,2.6315789473684212
+UTS & elong,UTS,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,25,2.1052631578947367
+UTS & elong,UTS,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,26,2.1052631578947367
+UTS & elong,UTS,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,31,0.9375
+UTS & elong,UTS,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,32,1.5416666666666667
+UTS & elong,UTS,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,33,0.2083333333333333
+UTS & elong,UTS,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,34,0.9523809523809524
+UTS & elong,UTS,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,35,0.9523809523809524
+UTS & elong,UTS,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,36,0.9523809523809524
+UTS & elong,UTS,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,37,3.3333333333333335
+UTS & elong,UTS,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,38,3.3333333333333335
+UTS & elong,UTS,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,39,2.6666666666666665
+UTS & elong,UTS,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,40,2.1052631578947367
+UTS & elong,UTS,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,41,2.1052631578947367
+UTS & elong,UTS,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,42,2.1052631578947367
+UTS & elong,UTS,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,43,0.8333333333333334
+UTS & elong,UTS,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,44,1.6666666666666667
+UTS & elong,UTS,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,45,0.8333333333333334
+UTS & elong,UTS,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,46,2.142857142857143
+UTS & elong,UTS,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,47,1.4285714285714284
+UTS & elong,UTS,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,48,2.142857142857143
+UTS & elong,UTS,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,49,1.36986301369863
+UTS & elong,UTS,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,50,1.36986301369863
+UTS & elong,UTS,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,51,1.36986301369863
+UTS & elong,UTS,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,52,0.5050505050505051
+UTS & elong,UTS,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,53,0.5050505050505051
+UTS & elong,UTS,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,54,0.5050505050505051
+UTS & elong,UTS,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,55,0.9259259259259258
+UTS & elong,UTS,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,56,0.9259259259259258
+UTS & elong,UTS,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,57,0.9259259259259258
+UTS & elong,Elongasi,B,1.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,3,16.666666666666664
+UTS & elong,Elongasi,B,2.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,4,34.22222222222222
+UTS & elong,Elongasi,B,3.0,1.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,5,37.0
+UTS & elong,Elongasi,C,1.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,6,56.666666666666664
+UTS & elong,Elongasi,C,2.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,7,69.55555555555556
+UTS & elong,Elongasi,C,3.0,1.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,8,34.44444444444444
+UTS & elong,Elongasi,D,1.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,9,114.55555555555554
+UTS & elong,Elongasi,D,2.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,10,207.33333333333331
+UTS & elong,Elongasi,D,3.0,1.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,11,276.3333333333333
+UTS & elong,Elongasi,G,1.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,12,71.11111111111111
+UTS & elong,Elongasi,G,2.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,13,61.77777777777778
+UTS & elong,Elongasi,G,3.0,2.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,14,54.77777777777777
+UTS & elong,Elongasi,H,1.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,15,114.0
+UTS & elong,Elongasi,H,2.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,16,170.66666666666666
+UTS & elong,Elongasi,H,3.0,2.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,17,134.77777777777777
+UTS & elong,Elongasi,J,1.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,18,104.55555555555556
+UTS & elong,Elongasi,J,2.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,19,40.77777777777778
+UTS & elong,Elongasi,J,3.0,3.0,1.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,20,70.77777777777779
+UTS & elong,Elongasi,K,1.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,21,55.77777777777778
+UTS & elong,Elongasi,K,2.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,22,81.44444444444444
+UTS & elong,Elongasi,K,3.0,3.0,2.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,23,63.33333333333333
+UTS & elong,Elongasi,L,1.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,24,66.11111111111111
+UTS & elong,Elongasi,L,2.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,25,105.88888888888889
+UTS & elong,Elongasi,L,3.0,3.0,3.0,Sorbitol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Sorbitol,26,142.55555555555557
+UTS & elong,Elongasi,B,1.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,31,38.0
+UTS & elong,Elongasi,B,2.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,32,46.333333333333336
+UTS & elong,Elongasi,B,3.0,1.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,33,31.444444444444446
+UTS & elong,Elongasi,C,1.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,34,88.88888888888889
+UTS & elong,Elongasi,C,2.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,35,84.0
+UTS & elong,Elongasi,C,3.0,1.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,36,90.0
+UTS & elong,Elongasi,D,1.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,37,366.55555555555554
+UTS & elong,Elongasi,D,2.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,38,227.22222222222223
+UTS & elong,Elongasi,D,3.0,1.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,39,323.11111111111114
+UTS & elong,Elongasi,F,1.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,40,128.66666666666666
+UTS & elong,Elongasi,F,2.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,41,161.11111111111111
+UTS & elong,Elongasi,F,3.0,2.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,42,128.66666666666666
+UTS & elong,Elongasi,G,1.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,43,42.55555555555555
+UTS & elong,Elongasi,G,2.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,44,56.99999999999999
+UTS & elong,Elongasi,G,3.0,2.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,45,51.11111111111111
+UTS & elong,Elongasi,H,1.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,46,113.33333333333331
+UTS & elong,Elongasi,H,2.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,47,72.88888888888889
+UTS & elong,Elongasi,H,3.0,2.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,48,97.0
+UTS & elong,Elongasi,J,1.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,49,63.66666666666666
+UTS & elong,Elongasi,J,2.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,50,36.666666666666664
+UTS & elong,Elongasi,J,3.0,3.0,1.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,51,91.11111111111111
+UTS & elong,Elongasi,K,1.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,52,45.55555555555556
+UTS & elong,Elongasi,K,2.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,53,28.88888888888889
+UTS & elong,Elongasi,K,3.0,3.0,2.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,54,45.888888888888886
+UTS & elong,Elongasi,L,1.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,55,53.0
+UTS & elong,Elongasi,L,2.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,56,53.666666666666664
+UTS & elong,Elongasi,L,3.0,3.0,3.0,Gliserol,pengujian (ANOVA)_UTS_&_elong,UTS & elong,Gliserol,57,65.55555555555556

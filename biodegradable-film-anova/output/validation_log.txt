@@ -1,0 +1,696 @@
+2026-09-03 16:08:47,436 - INFO - Validating dataset for response: FTL
+2026-09-03 16:08:47,436 - INFO - FTL total observations: 72
+2026-09-03 16:08:47,437 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 16:08:47,437 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 16:08:47,437 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,437 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 16:08:47,437 - INFO - Kelarutan total observations: 72
+2026-09-03 16:08:47,438 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 16:08:47,438 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 16:08:47,438 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,438 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 16:08:47,438 - INFO - Solubilitas total observations: 51
+2026-09-03 16:08:47,439 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 16:08:47,439 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 16:08:47,439 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,439 - INFO - Validating dataset for response: Opasitas
+2026-09-03 16:08:47,439 - INFO - Opasitas total observations: 51
+2026-09-03 16:08:47,441 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 16:08:47,442 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 16:08:47,442 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,443 - INFO - Validating dataset for response: UTS
+2026-09-03 16:08:47,443 - INFO - UTS total observations: 51
+2026-09-03 16:08:47,448 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 16:08:47,448 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 16:08:47,449 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,449 - INFO - Validating dataset for response: Elongasi
+2026-09-03 16:08:47,449 - INFO - Elongasi total observations: 51
+2026-09-03 16:08:47,449 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 16:08:47,452 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 16:08:47,452 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:08:47,454 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 16:12:01,785 - INFO - Validating dataset for response: FTL
+2026-09-03 16:12:01,785 - INFO - FTL total observations: 72
+2026-09-03 16:12:01,786 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 16:12:01,786 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 16:12:01,786 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,787 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 16:12:01,787 - INFO - Kelarutan total observations: 72
+2026-09-03 16:12:01,788 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 16:12:01,788 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 16:12:01,788 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,789 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 16:12:01,789 - INFO - Solubilitas total observations: 51
+2026-09-03 16:12:01,790 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 16:12:01,790 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 16:12:01,790 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,790 - INFO - Validating dataset for response: Opasitas
+2026-09-03 16:12:01,791 - INFO - Opasitas total observations: 51
+2026-09-03 16:12:01,791 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 16:12:01,791 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 16:12:01,791 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,791 - INFO - Validating dataset for response: UTS
+2026-09-03 16:12:01,791 - INFO - UTS total observations: 51
+2026-09-03 16:12:01,792 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 16:12:01,793 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 16:12:01,793 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,793 - INFO - Validating dataset for response: Elongasi
+2026-09-03 16:12:01,793 - INFO - Elongasi total observations: 51
+2026-09-03 16:12:01,794 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 16:12:01,794 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 16:12:01,794 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:12:01,794 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 16:29:38,953 - INFO - Validating dataset for response: FTL
+2026-09-03 16:29:38,953 - INFO - FTL total observations: 72
+2026-09-03 16:29:38,954 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 16:29:38,955 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 16:29:38,955 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,955 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 16:29:38,955 - INFO - Kelarutan total observations: 72
+2026-09-03 16:29:38,955 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 16:29:38,955 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 16:29:38,956 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,956 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 16:29:38,956 - INFO - Solubilitas total observations: 51
+2026-09-03 16:29:38,956 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 16:29:38,956 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 16:29:38,956 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,957 - INFO - Validating dataset for response: Opasitas
+2026-09-03 16:29:38,957 - INFO - Opasitas total observations: 51
+2026-09-03 16:29:38,957 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 16:29:38,957 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 16:29:38,957 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,958 - INFO - Validating dataset for response: UTS
+2026-09-03 16:29:38,958 - INFO - UTS total observations: 51
+2026-09-03 16:29:38,958 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 16:29:38,958 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 16:29:38,958 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,958 - INFO - Validating dataset for response: Elongasi
+2026-09-03 16:29:38,959 - INFO - Elongasi total observations: 51
+2026-09-03 16:29:38,959 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 16:29:38,959 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 16:29:38,959 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:29:38,959 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 16:40:31,879 - INFO - Validating dataset for response: FTL
+2026-09-03 16:40:31,881 - INFO - FTL total observations: 72
+2026-09-03 16:40:31,881 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 16:40:31,882 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 16:40:31,882 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,882 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 16:40:31,882 - INFO - Kelarutan total observations: 72
+2026-09-03 16:40:31,883 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 16:40:31,883 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 16:40:31,883 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,883 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 16:40:31,883 - INFO - Solubilitas total observations: 51
+2026-09-03 16:40:31,884 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 16:40:31,884 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 16:40:31,884 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,884 - INFO - Validating dataset for response: Opasitas
+2026-09-03 16:40:31,884 - INFO - Opasitas total observations: 51
+2026-09-03 16:40:31,885 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 16:40:31,885 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 16:40:31,885 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,885 - INFO - Validating dataset for response: UTS
+2026-09-03 16:40:31,885 - INFO - UTS total observations: 51
+2026-09-03 16:40:31,886 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 16:40:31,886 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 16:40:31,886 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,886 - INFO - Validating dataset for response: Elongasi
+2026-09-03 16:40:31,887 - INFO - Elongasi total observations: 51
+2026-09-03 16:40:31,887 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 16:40:31,890 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 16:40:31,891 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:40:31,892 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 16:50:04,638 - INFO - Validating dataset for response: FTL
+2026-09-03 16:50:04,639 - INFO - FTL total observations: 72
+2026-09-03 16:50:04,639 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 16:50:04,639 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 16:50:04,639 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,641 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 16:50:04,641 - INFO - Kelarutan total observations: 72
+2026-09-03 16:50:04,641 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 16:50:04,641 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 16:50:04,641 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,642 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 16:50:04,642 - INFO - Solubilitas total observations: 51
+2026-09-03 16:50:04,642 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 16:50:04,642 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 16:50:04,643 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,643 - INFO - Validating dataset for response: Opasitas
+2026-09-03 16:50:04,643 - INFO - Opasitas total observations: 51
+2026-09-03 16:50:04,643 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 16:50:04,643 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 16:50:04,643 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,643 - INFO - Validating dataset for response: UTS
+2026-09-03 16:50:04,643 - INFO - UTS total observations: 51
+2026-09-03 16:50:04,644 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 16:50:04,644 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 16:50:04,644 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,644 - INFO - Validating dataset for response: Elongasi
+2026-09-03 16:50:04,644 - INFO - Elongasi total observations: 51
+2026-09-03 16:50:04,645 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 16:50:04,645 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 16:50:04,645 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 16:50:04,645 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 17:04:01,275 - INFO - Validating dataset for response: FTL
+2026-09-03 17:04:01,275 - INFO - FTL total observations: 72
+2026-09-03 17:04:01,276 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 17:04:01,276 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 17:04:01,276 - WARNING - Response FTL has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,277 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 17:04:01,277 - INFO - Kelarutan total observations: 72
+2026-09-03 17:04:01,277 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 17:04:01,277 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 17:04:01,277 - WARNING - Response Kelarutan has 72 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,277 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 17:04:01,277 - INFO - Solubilitas total observations: 51
+2026-09-03 17:04:01,278 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 17:04:01,278 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 17:04:01,278 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,279 - INFO - Validating dataset for response: Opasitas
+2026-09-03 17:04:01,279 - INFO - Opasitas total observations: 51
+2026-09-03 17:04:01,279 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 17:04:01,280 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 17:04:01,280 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,280 - INFO - Validating dataset for response: UTS
+2026-09-03 17:04:01,280 - INFO - UTS total observations: 51
+2026-09-03 17:04:01,281 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 17:04:01,281 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 17:04:01,281 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,282 - INFO - Validating dataset for response: Elongasi
+2026-09-03 17:04:01,282 - INFO - Elongasi total observations: 51
+2026-09-03 17:04:01,282 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 17:04:01,283 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 17:04:01,284 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:04:01,287 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 17:07:39,674 - INFO - Validating dataset for response: FTL
+2026-09-03 17:07:39,675 - INFO - FTL total observations: 72
+2026-09-03 17:07:39,675 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 17:07:39,675 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 17:07:39,675 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 17:07:39,676 - INFO - Kelarutan total observations: 72
+2026-09-03 17:07:39,676 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 17:07:39,676 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 17:07:39,676 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 17:07:39,676 - INFO - Solubilitas total observations: 51
+2026-09-03 17:07:39,676 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 17:07:39,676 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 17:07:39,677 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:07:39,677 - INFO - Validating dataset for response: Opasitas
+2026-09-03 17:07:39,677 - INFO - Opasitas total observations: 51
+2026-09-03 17:07:39,677 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 17:07:39,677 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 17:07:39,677 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:07:39,677 - INFO - Validating dataset for response: UTS
+2026-09-03 17:07:39,677 - INFO - UTS total observations: 51
+2026-09-03 17:07:39,677 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 17:07:39,678 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 17:07:39,678 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:07:39,678 - INFO - Validating dataset for response: Elongasi
+2026-09-03 17:07:39,678 - INFO - Elongasi total observations: 51
+2026-09-03 17:07:39,678 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 17:07:39,678 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 17:07:39,678 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 17:07:39,678 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 18:08:01,301 - INFO - Validating dataset for response: FTL
+2026-09-03 18:08:01,301 - INFO - FTL total observations: 72
+2026-09-03 18:08:01,301 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 18:08:01,301 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 18:08:01,302 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 18:08:01,302 - INFO - Kelarutan total observations: 72
+2026-09-03 18:08:01,302 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 18:08:01,302 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 18:08:01,302 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 18:08:01,302 - INFO - Solubilitas total observations: 51
+2026-09-03 18:08:01,302 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 18:08:01,303 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 18:08:01,303 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,303 - INFO - Validating dataset for response: Opasitas
+2026-09-03 18:08:01,303 - INFO - Opasitas total observations: 51
+2026-09-03 18:08:01,303 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 18:08:01,303 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 18:08:01,303 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,304 - INFO - Validating dataset for response: WVTR
+2026-09-03 18:08:01,304 - INFO - WVTR total observations: 51
+2026-09-03 18:08:01,304 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 18:08:01,304 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 18:08:01,304 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,305 - INFO - Validating dataset for response: UTS
+2026-09-03 18:08:01,305 - INFO - UTS total observations: 51
+2026-09-03 18:08:01,305 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 18:08:01,305 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 18:08:01,305 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,305 - INFO - Validating dataset for response: Elongasi
+2026-09-03 18:08:01,305 - INFO - Elongasi total observations: 51
+2026-09-03 18:08:01,305 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 18:08:01,306 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 18:08:01,306 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,306 - INFO - Validating dataset for response: Formability
+2026-09-03 18:08:01,306 - INFO - Formability total observations: 74
+2026-09-03 18:08:01,306 - INFO - Formability (Sorbitol) observations: 37
+2026-09-03 18:08:01,306 - INFO - Formability (Gliserol) observations: 37
+2026-09-03 18:08:01,306 - WARNING - Response Formability has 74 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:08:01,306 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 18:10:25,932 - INFO - Validating dataset for response: FTL
+2026-09-03 18:10:25,932 - INFO - FTL total observations: 72
+2026-09-03 18:10:25,937 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 18:10:25,937 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 18:10:25,938 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 18:10:25,938 - INFO - Kelarutan total observations: 72
+2026-09-03 18:10:25,938 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 18:10:25,938 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 18:10:25,939 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 18:10:25,939 - INFO - Solubilitas total observations: 51
+2026-09-03 18:10:25,940 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 18:10:25,940 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 18:10:25,940 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:10:25,940 - INFO - Validating dataset for response: Opasitas
+2026-09-03 18:10:25,940 - INFO - Opasitas total observations: 51
+2026-09-03 18:10:25,941 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 18:10:25,941 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 18:10:25,941 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:10:25,941 - INFO - Validating dataset for response: WVTR
+2026-09-03 18:10:25,941 - INFO - WVTR total observations: 51
+2026-09-03 18:10:25,942 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 18:10:25,942 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 18:10:25,942 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:10:25,943 - INFO - Validating dataset for response: UTS
+2026-09-03 18:10:25,943 - INFO - UTS total observations: 51
+2026-09-03 18:10:25,943 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 18:10:25,944 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 18:10:25,944 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:10:25,944 - INFO - Validating dataset for response: Elongasi
+2026-09-03 18:10:25,944 - INFO - Elongasi total observations: 51
+2026-09-03 18:10:25,944 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 18:10:25,945 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 18:10:25,945 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 18:10:25,945 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 20:36:06,068 - INFO - Validating dataset for response: FTL
+2026-09-03 20:36:06,068 - INFO - FTL total observations: 72
+2026-09-03 20:36:06,069 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 20:36:06,070 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 20:36:06,070 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 20:36:06,070 - INFO - Kelarutan total observations: 72
+2026-09-03 20:36:06,071 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 20:36:06,072 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 20:36:06,073 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 20:36:06,073 - INFO - Solubilitas total observations: 51
+2026-09-03 20:36:06,074 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 20:36:06,074 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 20:36:06,074 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:36:06,074 - INFO - Validating dataset for response: Opasitas
+2026-09-03 20:36:06,074 - INFO - Opasitas total observations: 51
+2026-09-03 20:36:06,074 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 20:36:06,074 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 20:36:06,074 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:36:06,075 - INFO - Validating dataset for response: WVTR
+2026-09-03 20:36:06,075 - INFO - WVTR total observations: 51
+2026-09-03 20:36:06,075 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 20:36:06,075 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 20:36:06,075 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:36:06,075 - INFO - Validating dataset for response: UTS
+2026-09-03 20:36:06,075 - INFO - UTS total observations: 51
+2026-09-03 20:36:06,076 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 20:36:06,076 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 20:36:06,076 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:36:06,076 - INFO - Validating dataset for response: Elongasi
+2026-09-03 20:36:06,076 - INFO - Elongasi total observations: 51
+2026-09-03 20:36:06,076 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 20:36:06,076 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 20:36:06,076 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:36:06,077 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 20:39:50,899 - INFO - Validating dataset for response: FTL
+2026-09-03 20:39:50,899 - INFO - FTL total observations: 72
+2026-09-03 20:39:50,902 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 20:39:50,902 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 20:39:50,903 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 20:39:50,903 - INFO - Kelarutan total observations: 72
+2026-09-03 20:39:50,903 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 20:39:50,903 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 20:39:50,903 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 20:39:50,903 - INFO - Solubilitas total observations: 51
+2026-09-03 20:39:50,904 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 20:39:50,904 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 20:39:50,904 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:39:50,904 - INFO - Validating dataset for response: Opasitas
+2026-09-03 20:39:50,904 - INFO - Opasitas total observations: 51
+2026-09-03 20:39:50,905 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 20:39:50,905 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 20:39:50,905 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:39:50,905 - INFO - Validating dataset for response: WVTR
+2026-09-03 20:39:50,905 - INFO - WVTR total observations: 51
+2026-09-03 20:39:50,905 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 20:39:50,905 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 20:39:50,905 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:39:50,906 - INFO - Validating dataset for response: UTS
+2026-09-03 20:39:50,906 - INFO - UTS total observations: 51
+2026-09-03 20:39:50,906 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 20:39:50,906 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 20:39:50,906 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:39:50,906 - INFO - Validating dataset for response: Elongasi
+2026-09-03 20:39:50,906 - INFO - Elongasi total observations: 51
+2026-09-03 20:39:50,907 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 20:39:50,907 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 20:39:50,907 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:39:50,907 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 20:40:47,918 - INFO - Validating dataset for response: FTL
+2026-09-03 20:40:47,918 - INFO - FTL total observations: 72
+2026-09-03 20:40:47,920 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 20:40:47,920 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 20:40:47,920 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 20:40:47,920 - INFO - Kelarutan total observations: 72
+2026-09-03 20:40:47,924 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 20:40:47,925 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 20:40:47,929 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 20:40:47,929 - INFO - Solubilitas total observations: 51
+2026-09-03 20:40:47,931 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 20:40:47,932 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 20:40:47,933 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:40:47,935 - INFO - Validating dataset for response: Opasitas
+2026-09-03 20:40:47,935 - INFO - Opasitas total observations: 51
+2026-09-03 20:40:47,936 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 20:40:47,944 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 20:40:47,945 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:40:47,948 - INFO - Validating dataset for response: WVTR
+2026-09-03 20:40:47,949 - INFO - WVTR total observations: 51
+2026-09-03 20:40:47,954 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 20:40:47,956 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 20:40:47,956 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:40:47,957 - INFO - Validating dataset for response: UTS
+2026-09-03 20:40:47,957 - INFO - UTS total observations: 51
+2026-09-03 20:40:47,959 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 20:40:47,961 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 20:40:47,961 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:40:47,964 - INFO - Validating dataset for response: Elongasi
+2026-09-03 20:40:47,965 - INFO - Elongasi total observations: 51
+2026-09-03 20:40:47,968 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 20:40:47,971 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 20:40:47,971 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:40:47,976 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 20:52:14,263 - INFO - Validating dataset for response: FTL
+2026-09-03 20:52:14,264 - INFO - FTL total observations: 72
+2026-09-03 20:52:14,266 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 20:52:14,266 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 20:52:14,267 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 20:52:14,267 - INFO - Kelarutan total observations: 72
+2026-09-03 20:52:14,268 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 20:52:14,268 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 20:52:14,269 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 20:52:14,269 - INFO - Solubilitas total observations: 51
+2026-09-03 20:52:14,270 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 20:52:14,272 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 20:52:14,272 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:52:14,274 - INFO - Validating dataset for response: Opasitas
+2026-09-03 20:52:14,274 - INFO - Opasitas total observations: 51
+2026-09-03 20:52:14,281 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 20:52:14,282 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 20:52:14,283 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:52:14,283 - INFO - Validating dataset for response: WVTR
+2026-09-03 20:52:14,283 - INFO - WVTR total observations: 51
+2026-09-03 20:52:14,286 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 20:52:14,288 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 20:52:14,288 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:52:14,288 - INFO - Validating dataset for response: UTS
+2026-09-03 20:52:14,288 - INFO - UTS total observations: 51
+2026-09-03 20:52:14,289 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 20:52:14,290 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 20:52:14,291 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:52:14,291 - INFO - Validating dataset for response: Elongasi
+2026-09-03 20:52:14,292 - INFO - Elongasi total observations: 51
+2026-09-03 20:52:14,295 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 20:52:14,295 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 20:52:14,295 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:52:14,297 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 20:53:35,570 - INFO - Validating dataset for response: FTL
+2026-09-03 20:53:35,571 - INFO - FTL total observations: 72
+2026-09-03 20:53:35,573 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 20:53:35,573 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 20:53:35,574 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 20:53:35,574 - INFO - Kelarutan total observations: 72
+2026-09-03 20:53:35,574 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 20:53:35,574 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 20:53:35,575 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 20:53:35,575 - INFO - Solubilitas total observations: 51
+2026-09-03 20:53:35,575 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 20:53:35,575 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 20:53:35,575 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:53:35,576 - INFO - Validating dataset for response: Opasitas
+2026-09-03 20:53:35,576 - INFO - Opasitas total observations: 51
+2026-09-03 20:53:35,576 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 20:53:35,576 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 20:53:35,576 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:53:35,577 - INFO - Validating dataset for response: WVTR
+2026-09-03 20:53:35,577 - INFO - WVTR total observations: 51
+2026-09-03 20:53:35,577 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 20:53:35,578 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 20:53:35,578 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:53:35,578 - INFO - Validating dataset for response: UTS
+2026-09-03 20:53:35,578 - INFO - UTS total observations: 51
+2026-09-03 20:53:35,579 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 20:53:35,579 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 20:53:35,579 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:53:35,580 - INFO - Validating dataset for response: Elongasi
+2026-09-03 20:53:35,580 - INFO - Elongasi total observations: 51
+2026-09-03 20:53:35,580 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 20:53:35,580 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 20:53:35,580 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 20:53:35,580 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:03:23,080 - INFO - Validating dataset for response: FTL
+2026-09-03 21:03:23,084 - INFO - FTL total observations: 72
+2026-09-03 21:03:23,096 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:03:23,097 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:03:23,099 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:03:23,099 - INFO - Kelarutan total observations: 72
+2026-09-03 21:03:23,101 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:03:23,102 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:03:23,103 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:03:23,104 - INFO - Solubilitas total observations: 51
+2026-09-03 21:03:23,106 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:03:23,117 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:03:23,117 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:03:23,127 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:03:23,128 - INFO - Opasitas total observations: 51
+2026-09-03 21:03:23,129 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:03:23,130 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:03:23,130 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:03:23,132 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:03:23,132 - INFO - WVTR total observations: 51
+2026-09-03 21:03:23,134 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:03:23,137 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:03:23,137 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:03:23,138 - INFO - Validating dataset for response: UTS
+2026-09-03 21:03:23,138 - INFO - UTS total observations: 51
+2026-09-03 21:03:23,139 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:03:23,140 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:03:23,140 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:03:23,141 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:03:23,141 - INFO - Elongasi total observations: 51
+2026-09-03 21:03:23,143 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:03:23,144 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:03:23,144 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:03:23,145 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:05:10,319 - INFO - Validating dataset for response: FTL
+2026-09-03 21:05:10,319 - INFO - FTL total observations: 72
+2026-09-03 21:05:10,321 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:05:10,321 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:05:10,322 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:05:10,322 - INFO - Kelarutan total observations: 72
+2026-09-03 21:05:10,323 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:05:10,323 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:05:10,324 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:05:10,324 - INFO - Solubilitas total observations: 51
+2026-09-03 21:05:10,325 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:05:10,326 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:05:10,326 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:05:10,326 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:05:10,326 - INFO - Opasitas total observations: 51
+2026-09-03 21:05:10,327 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:05:10,327 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:05:10,327 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:05:10,327 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:05:10,328 - INFO - WVTR total observations: 51
+2026-09-03 21:05:10,328 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:05:10,328 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:05:10,328 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:05:10,329 - INFO - Validating dataset for response: UTS
+2026-09-03 21:05:10,330 - INFO - UTS total observations: 51
+2026-09-03 21:05:10,330 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:05:10,331 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:05:10,331 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:05:10,332 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:05:10,332 - INFO - Elongasi total observations: 51
+2026-09-03 21:05:10,333 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:05:10,333 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:05:10,333 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:05:10,334 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:17:10,676 - INFO - Validating dataset for response: FTL
+2026-09-03 21:17:10,676 - INFO - FTL total observations: 72
+2026-09-03 21:17:10,679 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:17:10,679 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:17:10,680 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:17:10,680 - INFO - Kelarutan total observations: 72
+2026-09-03 21:17:10,682 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:17:10,682 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:17:10,683 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:17:10,683 - INFO - Solubilitas total observations: 51
+2026-09-03 21:17:10,686 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:17:10,686 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:17:10,686 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:17:10,687 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:17:10,687 - INFO - Opasitas total observations: 51
+2026-09-03 21:17:10,687 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:17:10,687 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:17:10,687 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:17:10,688 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:17:10,688 - INFO - WVTR total observations: 51
+2026-09-03 21:17:10,688 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:17:10,690 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:17:10,691 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:17:10,692 - INFO - Validating dataset for response: UTS
+2026-09-03 21:17:10,692 - INFO - UTS total observations: 51
+2026-09-03 21:17:10,692 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:17:10,693 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:17:10,693 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:17:10,693 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:17:10,693 - INFO - Elongasi total observations: 51
+2026-09-03 21:17:10,693 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:17:10,700 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:17:10,701 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:17:10,701 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:25:57,250 - INFO - Validating dataset for response: FTL
+2026-09-03 21:25:57,250 - INFO - FTL total observations: 72
+2026-09-03 21:25:57,282 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:25:57,285 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:25:57,286 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:25:57,286 - INFO - Kelarutan total observations: 72
+2026-09-03 21:25:57,293 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:25:57,303 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:25:57,317 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:25:57,317 - INFO - Solubilitas total observations: 51
+2026-09-03 21:25:57,319 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:25:57,320 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:25:57,320 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:25:57,320 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:25:57,320 - INFO - Opasitas total observations: 51
+2026-09-03 21:25:57,321 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:25:57,321 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:25:57,321 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:25:57,322 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:25:57,322 - INFO - WVTR total observations: 51
+2026-09-03 21:25:57,322 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:25:57,323 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:25:57,323 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:25:57,324 - INFO - Validating dataset for response: UTS
+2026-09-03 21:25:57,324 - INFO - UTS total observations: 51
+2026-09-03 21:25:57,325 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:25:57,325 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:25:57,325 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:25:57,326 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:25:57,326 - INFO - Elongasi total observations: 51
+2026-09-03 21:25:57,327 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:25:57,327 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:25:57,327 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:25:57,328 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:27:18,926 - INFO - Validating dataset for response: FTL
+2026-09-03 21:27:18,927 - INFO - FTL total observations: 72
+2026-09-03 21:27:18,930 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:27:18,931 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:27:18,931 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:27:18,931 - INFO - Kelarutan total observations: 72
+2026-09-03 21:27:18,933 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:27:18,933 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:27:18,935 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:27:18,935 - INFO - Solubilitas total observations: 51
+2026-09-03 21:27:18,937 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:27:18,938 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:27:18,938 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:27:18,940 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:27:18,940 - INFO - Opasitas total observations: 51
+2026-09-03 21:27:18,942 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:27:18,944 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:27:18,944 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:27:18,947 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:27:18,947 - INFO - WVTR total observations: 51
+2026-09-03 21:27:18,949 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:27:18,951 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:27:18,951 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:27:18,952 - INFO - Validating dataset for response: UTS
+2026-09-03 21:27:18,953 - INFO - UTS total observations: 51
+2026-09-03 21:27:18,957 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:27:18,959 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:27:18,959 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:27:18,966 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:27:18,967 - INFO - Elongasi total observations: 51
+2026-09-03 21:27:18,969 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:27:18,969 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:27:18,970 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:27:18,970 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:28:19,074 - INFO - Validating dataset for response: FTL
+2026-09-03 21:28:19,074 - INFO - FTL total observations: 72
+2026-09-03 21:28:19,075 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:28:19,076 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:28:19,078 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:28:19,078 - INFO - Kelarutan total observations: 72
+2026-09-03 21:28:19,079 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:28:19,079 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:28:19,079 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:28:19,079 - INFO - Solubilitas total observations: 51
+2026-09-03 21:28:19,080 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:28:19,080 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:28:19,080 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:28:19,080 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:28:19,080 - INFO - Opasitas total observations: 51
+2026-09-03 21:28:19,081 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:28:19,081 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:28:19,081 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:28:19,082 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:28:19,082 - INFO - WVTR total observations: 51
+2026-09-03 21:28:19,082 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:28:19,083 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:28:19,083 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:28:19,083 - INFO - Validating dataset for response: UTS
+2026-09-03 21:28:19,083 - INFO - UTS total observations: 51
+2026-09-03 21:28:19,084 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:28:19,084 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:28:19,084 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:28:19,085 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:28:19,085 - INFO - Elongasi total observations: 51
+2026-09-03 21:28:19,086 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:28:19,087 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:28:19,087 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:28:19,088 - INFO - Running FTL-Kelarutan consistency check...
+2026-09-03 21:37:36,961 - INFO - Validating dataset for response: FTL
+2026-09-03 21:37:36,961 - INFO - FTL total observations: 72
+2026-09-03 21:37:36,965 - INFO - FTL (Sorbitol) observations: 36
+2026-09-03 21:37:36,970 - INFO - FTL (Gliserol) observations: 36
+2026-09-03 21:37:36,974 - INFO - Validating dataset for response: Kelarutan
+2026-09-03 21:37:36,974 - INFO - Kelarutan total observations: 72
+2026-09-03 21:37:36,975 - INFO - Kelarutan (Sorbitol) observations: 36
+2026-09-03 21:37:36,977 - INFO - Kelarutan (Gliserol) observations: 36
+2026-09-03 21:37:36,979 - INFO - Validating dataset for response: Solubilitas
+2026-09-03 21:37:36,979 - INFO - Solubilitas total observations: 51
+2026-09-03 21:37:36,981 - INFO - Solubilitas (Sorbitol) observations: 24
+2026-09-03 21:37:36,983 - INFO - Solubilitas (Gliserol) observations: 27
+2026-09-03 21:37:36,984 - WARNING - Response Solubilitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:37:36,986 - INFO - Validating dataset for response: Opasitas
+2026-09-03 21:37:36,987 - INFO - Opasitas total observations: 51
+2026-09-03 21:37:36,990 - INFO - Opasitas (Sorbitol) observations: 24
+2026-09-03 21:37:36,991 - INFO - Opasitas (Gliserol) observations: 27
+2026-09-03 21:37:36,991 - WARNING - Response Opasitas has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:37:36,995 - INFO - Validating dataset for response: WVTR
+2026-09-03 21:37:36,995 - INFO - WVTR total observations: 51
+2026-09-03 21:37:37,016 - INFO - WVTR (Sorbitol) observations: 24
+2026-09-03 21:37:37,018 - INFO - WVTR (Gliserol) observations: 27
+2026-09-03 21:37:37,019 - WARNING - Response WVTR has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:37:37,026 - INFO - Validating dataset for response: UTS
+2026-09-03 21:37:37,026 - INFO - UTS total observations: 51
+2026-09-03 21:37:37,029 - INFO - UTS (Sorbitol) observations: 24
+2026-09-03 21:37:37,030 - INFO - UTS (Gliserol) observations: 27
+2026-09-03 21:37:37,030 - WARNING - Response UTS has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:37:37,038 - INFO - Validating dataset for response: Elongasi
+2026-09-03 21:37:37,038 - INFO - Elongasi total observations: 51
+2026-09-03 21:37:37,041 - INFO - Elongasi (Sorbitol) observations: 24
+2026-09-03 21:37:37,043 - INFO - Elongasi (Gliserol) observations: 27
+2026-09-03 21:37:37,043 - WARNING - Response Elongasi has 51 valid observations. Expected complete factorial design = 72. Missing cells/replicates must be investigated.
+2026-09-03 21:37:37,044 - INFO - Running FTL-Kelarutan consistency check...

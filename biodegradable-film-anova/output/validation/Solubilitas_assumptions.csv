@@ -1,0 +1,3 @@
+Response,Test,Statistic,p-value,Decision
+Solubilitas,Shapiro-Wilk (Normality on Residuals),0.9048938092185066,0.0006151531126128249,Violated
+Solubilitas,Levene (Homogeneity),0.4259069677692296,0.9642179571278403,OK

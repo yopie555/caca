@@ -1,0 +1,3 @@
+Response,Test,Statistic,p-value,Decision
+WVTR,Shapiro-Wilk (Normality on Residuals),0.9602966700568848,0.08587445034388229,OK
+WVTR,Levene (Homogeneity),0.04430529978108945,0.9999999833826272,OK

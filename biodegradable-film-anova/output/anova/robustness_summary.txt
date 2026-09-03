@@ -1,0 +1,41 @@
+STATISTICAL ROBUSTNESS AUDIT
+============================
+
+FTL
+Final model: FULL FACTORIAL
+Reason: Design is complete (N=72, 24 cells). Valid for full main effects and interactions.
+Limitations: None for experimental domain.
+
+Kelarutan
+Final model: FULL FACTORIAL
+Reason: Design is complete (N=72, 24 cells). Valid for full main effects and interactions.
+Limitations: None for experimental domain.
+
+Solubilitas
+Final model: MAIN EFFECTS (Conditional)
+Reason: Full factorial is rank deficient due to structural missingness (biofilm formability failure for PVA=0 and Formulation F with Sorbitol).
+Limitations: Interpretations are strictly conditional. We cannot claim independent causal effects of CMC/PVA universally; findings apply ONLY to formulations capable of forming biofilms.
+
+Opasitas
+Final model: MAIN EFFECTS (Conditional)
+Reason: Full factorial is rank deficient due to structural missingness (biofilm formability failure for PVA=0 and Formulation F with Sorbitol).
+Limitations: Interpretations are strictly conditional. We cannot claim independent causal effects of CMC/PVA universally; findings apply ONLY to formulations capable of forming biofilms.
+
+WVTR
+Final model: MAIN EFFECTS (Conditional)
+Reason: Full factorial is rank deficient due to structural missingness (biofilm formability failure for PVA=0 and Formulation F with Sorbitol).
+Limitations: Interpretations are strictly conditional. We cannot claim independent causal effects of CMC/PVA universally; findings apply ONLY to formulations capable of forming biofilms.
+
+UTS
+Final model: MAIN EFFECTS (Conditional)
+Reason: Full factorial is rank deficient due to structural missingness (biofilm formability failure for PVA=0 and Formulation F with Sorbitol).
+Limitations: Interpretations are strictly conditional. We cannot claim independent causal effects of CMC/PVA universally; findings apply ONLY to formulations capable of forming biofilms.
+
+Elongasi
+Final model: MAIN EFFECTS (Conditional)
+Reason: Full factorial is rank deficient due to structural missingness (biofilm formability failure for PVA=0 and Formulation F with Sorbitol).
+Limitations: Interpretations are strictly conditional. We cannot claim independent causal effects of CMC/PVA universally; findings apply ONLY to formulations capable of forming biofilms.
+
+OVERALL METHODOLOGICAL CONCLUSION
+=================================
+The current ANOVA pipeline is statistically valid under a **Conditional Inferential Framework**. By falling back to Main Effects for downstream variables, we avoid attempting to estimate unidentifiable interactions (Rank Deficiency). However, researchers MUST NOT claim universal independent causal effects of CMC/PVA across all configurations. The analysis is structurally confounded with formulation viability. All conclusions must be strictly prefaced with: *'For formulations that successfully formed a biofilm...'*.

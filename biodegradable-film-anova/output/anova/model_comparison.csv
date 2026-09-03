@@ -1,0 +1,29 @@
+Response,Model_Name,Formula,Cols,Rank,Residual_df,Estimable,Aliased_Terms
+FTL,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),24,24,48,True,
+FTL,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),7,7,65,True,
+FTL,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),18,18,54,True,
+FTL,Formulation Approach,C(Formulation) * C(Plasticizer),24,24,48,True,
+Kelarutan,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),24,24,48,True,
+Kelarutan,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),7,7,65,True,
+Kelarutan,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),18,18,54,True,
+Kelarutan,Formulation Approach,C(Formulation) * C(Plasticizer),24,24,48,True,
+Solubilitas,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),18,17,34,False,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+Solubilitas,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),6,6,45,True,
+Solubilitas,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),14,14,37,True,
+Solubilitas,Formulation Approach,C(Formulation) * C(Plasticizer),18,17,34,False,C(Formulation)[T.F]:C(Plasticizer)[T.Sorbitol]
+Opasitas,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),18,17,34,False,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+Opasitas,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),6,6,45,True,
+Opasitas,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),14,14,37,True,
+Opasitas,Formulation Approach,C(Formulation) * C(Plasticizer),18,17,34,False,C(Formulation)[T.F]:C(Plasticizer)[T.Sorbitol]
+WVTR,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),18,17,34,False,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+WVTR,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),6,6,45,True,
+WVTR,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),14,14,37,True,
+WVTR,Formulation Approach,C(Formulation) * C(Plasticizer),18,17,34,False,C(Formulation)[T.F]:C(Plasticizer)[T.Sorbitol]
+UTS,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),18,17,34,False,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+UTS,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),6,6,45,True,
+UTS,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),14,14,37,True,
+UTS,Formulation Approach,C(Formulation) * C(Plasticizer),18,17,34,False,C(Formulation)[T.F]:C(Plasticizer)[T.Sorbitol]
+Elongasi,Full Factorial,C(CMC) * C(PVA) * C(Plasticizer),18,17,34,False,C(CMC)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.2]:C(Plasticizer)[T.Sorbitol] + C(CMC)[T.2]:C(PVA)[T.3]:C(Plasticizer)[T.Sorbitol]
+Elongasi,Main Effects,C(CMC) + C(PVA) + C(Plasticizer),6,6,45,True,
+Elongasi,Two-Way Interactions,C(CMC) + C(PVA) + C(Plasticizer) + C(CMC):C(PVA) + C(CMC):C(Plasticizer) + C(PVA):C(Plasticizer),14,14,37,True,
+Elongasi,Formulation Approach,C(Formulation) * C(Plasticizer),18,17,34,False,C(Formulation)[T.F]:C(Plasticizer)[T.Sorbitol]

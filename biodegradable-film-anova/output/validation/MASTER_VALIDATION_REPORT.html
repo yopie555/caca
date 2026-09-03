@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang='id'>
+<head>
+<meta charset='UTF-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<title>MASTER VALIDATION REPORT</title>
+<style>
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 1200px; margin: 0 auto; padding: 20px; }
+h1, h2, h3, h4 { color: #2c3e50; }
+table { border-collapse: collapse; width: 100%; margin-bottom: 20px; font-size: 14px; }
+th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+th { background-color: #f2f2f2; }
+.alert { padding: 15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; }
+.alert-success { color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6; }
+.alert-warning { color: #8a6d3b; background-color: #fcf8e3; border-color: #faebcc; }
+.alert-danger { color: #a94442; background-color: #f2dede; border-color: #ebccd1; }
+</style>
+</head>
+<body>
+<h1>MASTER VALIDATION REPORT</h1>
+<p>Laporan dihasilkan pada: 2026-09-03 21:37:37</p>
+<h2>1. Planned Design</h2>
+<ul>
+<li>CMC levels: 3 (1, 2, 3)</li>
+<li>PVA levels: 4 (0, 1, 2, 3)</li>
+<li>Plasticizer levels: 2 (Gliserol, Sorbitol)</li>
+<li>Replicate counts: 3 (1, 2, 3)</li>
+<li>Planned N per response: 72</li>
+</ul>
+<h3>Respons: FTL</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 36</li>
+<li>Gliserol observations: 36</li>
+<li>Total observations: 72</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: Kelarutan</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 36</li>
+<li>Gliserol observations: 36</li>
+<li>Total observations: 72</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: Formability</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 37</li>
+<li>Gliserol observations: 37</li>
+<li>Total observations: 74</li>
+</ul>
+<div class='alert alert-warning'><strong>INCOMPLETE/INVALID DESIGN:</strong> Ditemukan 0 Missing Cells, 0 Unexpected Cells, atau ketidaksesuaian Replicate. Detail di <code>Formability_missing_combinations.csv</code>.</div>
+<h3>Respons: Opasitas</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 24</li>
+<li>Gliserol observations: 27</li>
+<li>Total observations: 51</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: Solubilitas</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 24</li>
+<li>Gliserol observations: 27</li>
+<li>Total observations: 51</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: WVTR</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 24</li>
+<li>Gliserol observations: 27</li>
+<li>Total observations: 51</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: UTS</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 24</li>
+<li>Gliserol observations: 27</li>
+<li>Total observations: 51</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h3>Respons: Elongasi</h3>
+<ul>
+<li>Replicate levels: 3</li>
+<li>Sorbitol observations: 24</li>
+<li>Gliserol observations: 27</li>
+<li>Total observations: 51</li>
+</ul>
+<div class='alert alert-success'>Desain lengkap (COMPLETE) dan seimbang (Balanced Design) untuk respons ini.</div>
+<h2>3. Consistency Check (FTL vs Kelarutan)</h2>
+<div class='alert alert-success'>Data FTL dan Kelarutan konsisten secara matematis.</div>
+<h2>4. Final Pipeline Status</h2>
+<div class='alert alert-danger'><strong>NOT SAFE</strong>: Terdapat response dengan status INCOMPLETE atau DUPLICATES FOUND. Hal ini membuat keseluruhan pipeline global tidak aman.</div>
+</body></html>

@@ -1,0 +1,169 @@
+Response,Formulation,CMC,PVA,Plasticizer,Canonical_Replicates,Status
+FTL,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,B,1,1,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,B,1,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,C,1,2,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,C,1,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,D,1,3,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,D,1,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,F,2,1,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,G,2,2,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,G,2,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,H,2,3,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,H,2,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,J,3,1,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,J,3,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,K,3,2,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,K,3,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+FTL,L,3,3,Gliserol,[],LOST_DURING_PREPROCESSING
+FTL,L,3,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,B,1,1,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,B,1,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,C,1,2,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,C,1,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,D,1,3,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,D,1,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,F,2,1,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,G,2,2,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,G,2,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,H,2,3,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,H,2,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,J,3,1,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,J,3,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,K,3,2,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,K,3,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+Kelarutan,L,3,3,Gliserol,[],LOST_DURING_PREPROCESSING
+Kelarutan,L,3,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+Solubilitas,A,1,0,Gliserol,[],ACTUALLY_MISSING
+Solubilitas,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Solubilitas,B,1,1,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,B,1,1,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,C,1,2,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,C,1,2,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,D,1,3,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,D,1,3,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,E,2,0,Gliserol,[],ACTUALLY_MISSING
+Solubilitas,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Solubilitas,F,2,1,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Solubilitas,G,2,2,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,G,2,2,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,H,2,3,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,H,2,3,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,I,3,0,Gliserol,[],ACTUALLY_MISSING
+Solubilitas,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Solubilitas,J,3,1,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,J,3,1,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,K,3,2,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,K,3,2,Sorbitol,"[1, 2, 3]",PRESENT
+Solubilitas,L,3,3,Gliserol,"[1, 2, 3]",PRESENT
+Solubilitas,L,3,3,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Opasitas,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Opasitas,B,1,1,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,B,1,1,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,C,1,2,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,C,1,2,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,D,1,3,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,D,1,3,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Opasitas,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Opasitas,F,2,1,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Opasitas,G,2,2,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,G,2,2,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,H,2,3,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,H,2,3,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Opasitas,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Opasitas,J,3,1,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,J,3,1,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,K,3,2,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,K,3,2,Sorbitol,"[1, 2, 3]",PRESENT
+Opasitas,L,3,3,Gliserol,"[1, 2, 3]",PRESENT
+Opasitas,L,3,3,Sorbitol,"[1, 2, 3]",PRESENT
+WVTR,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,B,1,1,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,B,1,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,C,1,2,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,C,1,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,D,1,3,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,D,1,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,F,2,1,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,G,2,2,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,G,2,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,H,2,3,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,H,2,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,J,3,1,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,J,3,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,K,3,2,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,K,3,2,Sorbitol,[],LOST_DURING_PREPROCESSING
+WVTR,L,3,3,Gliserol,[],LOST_DURING_PREPROCESSING
+WVTR,L,3,3,Sorbitol,[],LOST_DURING_PREPROCESSING
+UTS,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+UTS,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+UTS,B,1,1,Gliserol,"[1, 2, 3]",PRESENT
+UTS,B,1,1,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,C,1,2,Gliserol,"[1, 2, 3]",PRESENT
+UTS,C,1,2,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,D,1,3,Gliserol,"[1, 2, 3]",PRESENT
+UTS,D,1,3,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+UTS,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+UTS,F,2,1,Gliserol,"[1, 2, 3]",PRESENT
+UTS,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+UTS,G,2,2,Gliserol,"[1, 2, 3]",PRESENT
+UTS,G,2,2,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,H,2,3,Gliserol,"[1, 2, 3]",PRESENT
+UTS,H,2,3,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+UTS,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+UTS,J,3,1,Gliserol,"[1, 2, 3]",PRESENT
+UTS,J,3,1,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,K,3,2,Gliserol,"[1, 2, 3]",PRESENT
+UTS,K,3,2,Sorbitol,"[1, 2, 3]",PRESENT
+UTS,L,3,3,Gliserol,"[1, 2, 3]",PRESENT
+UTS,L,3,3,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,A,1,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Elongasi,A,1,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Elongasi,B,1,1,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,B,1,1,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,C,1,2,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,C,1,2,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,D,1,3,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,D,1,3,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,E,2,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Elongasi,E,2,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Elongasi,F,2,1,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,F,2,1,Sorbitol,[],LOST_DURING_PREPROCESSING
+Elongasi,G,2,2,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,G,2,2,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,H,2,3,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,H,2,3,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,I,3,0,Gliserol,[],LOST_DURING_PREPROCESSING
+Elongasi,I,3,0,Sorbitol,[],LOST_DURING_PREPROCESSING
+Elongasi,J,3,1,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,J,3,1,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,K,3,2,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,K,3,2,Sorbitol,"[1, 2, 3]",PRESENT
+Elongasi,L,3,3,Gliserol,"[1, 2, 3]",PRESENT
+Elongasi,L,3,3,Sorbitol,"[1, 2, 3]",PRESENT

@@ -1,0 +1,11 @@
+Response,Factor,Group 1,Group 2,Mean Difference,p-adjusted,Lower,Upper,Significant
+Kelarutan,CMC,1.0,2.0,1.2092,0.5712,-1.65,4.0683,False
+Kelarutan,CMC,1.0,3.0,-0.2594,0.9743,-3.1186,2.5997,False
+Kelarutan,CMC,2.0,3.0,-1.4686,0.4395,-4.3277,1.3905,False
+Kelarutan,PVA,0.0,1.0,3.0741,0.0002,1.252,4.8961,True
+Kelarutan,PVA,0.0,2.0,7.5541,0.0,5.732,9.3761,True
+Kelarutan,PVA,0.0,3.0,8.9641,0.0,7.142,10.7861,True
+Kelarutan,PVA,1.0,2.0,4.48,0.0,2.6579,6.3021,True
+Kelarutan,PVA,1.0,3.0,5.89,0.0,4.0679,7.7121,True
+Kelarutan,PVA,2.0,3.0,1.41,0.1844,-0.4121,3.2321,False
+Kelarutan,Plasticizer,Gliserol,Sorbitol,-0.2632,0.7888,-2.216,1.6896,False

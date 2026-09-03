@@ -1,0 +1,8 @@
+Response,N,Cells,Cols,Rank,Rank_Deficient
+FTL,72,24,24,24,False
+Kelarutan,72,24,24,24,False
+Solubilitas,51,17,18,17,True
+Opasitas,51,17,18,17,True
+WVTR,51,17,18,17,True
+UTS,51,17,18,17,True
+Elongasi,51,17,18,17,True

@@ -1,0 +1,188 @@
+Response,Interaction,Group 1,Group 2,Mean Difference,p-adjusted,Lower,Upper,Significant
+Elongasi,CMC × PVA,1_1,1_2,36.6481,0.767,-35.5686,108.8649,False
+Elongasi,CMC × PVA,1_1,1_3,218.5741,0.0,146.3573,290.7908,True
+Elongasi,CMC × PVA,1_1,2_1,105.537,0.0093,17.09,193.9841,True
+Elongasi,CMC × PVA,1_1,2_2,22.4444,0.9822,-49.7723,94.6612,False
+Elongasi,CMC × PVA,1_1,2_3,83.1667,0.0136,10.9499,155.3834,True
+Elongasi,CMC × PVA,1_1,3_1,33.9815,0.8311,-38.2353,106.1982,False
+Elongasi,CMC × PVA,1_1,3_2,19.537,0.9927,-52.6797,91.7538,False
+Elongasi,CMC × PVA,1_1,3_3,47.1852,0.4643,-25.0316,119.4019,False
+Elongasi,CMC × PVA,1_2,1_3,181.9259,0.0,109.7092,254.1427,True
+Elongasi,CMC × PVA,1_2,2_1,68.8889,0.2404,-19.5582,157.336,False
+Elongasi,CMC × PVA,1_2,2_2,-14.2037,0.9992,-86.4204,58.013,False
+Elongasi,CMC × PVA,1_2,2_3,46.5185,0.4835,-25.6982,118.7353,False
+Elongasi,CMC × PVA,1_2,3_1,-2.6667,1.0,-74.8834,69.5501,False
+Elongasi,CMC × PVA,1_2,3_2,-17.1111,0.997,-89.3278,55.1056,False
+Elongasi,CMC × PVA,1_2,3_3,10.537,0.9999,-61.6797,82.7538,False
+Elongasi,CMC × PVA,1_3,2_1,-113.037,0.0042,-201.4841,-24.59,True
+Elongasi,CMC × PVA,1_3,2_2,-196.1296,0.0,-268.3464,-123.9129,True
+Elongasi,CMC × PVA,1_3,2_3,-135.4074,0.0,-207.6241,-63.1907,True
+Elongasi,CMC × PVA,1_3,3_1,-184.5926,0.0,-256.8093,-112.3759,True
+Elongasi,CMC × PVA,1_3,3_2,-199.037,0.0,-271.2538,-126.8203,True
+Elongasi,CMC × PVA,1_3,3_3,-171.3889,0.0,-243.6056,-99.1722,True
+Elongasi,CMC × PVA,2_1,2_2,-83.0926,0.0803,-171.5397,5.3545,False
+Elongasi,CMC × PVA,2_1,2_3,-22.3704,0.9953,-110.8174,66.0767,False
+Elongasi,CMC × PVA,2_1,3_1,-71.5556,0.1996,-160.0026,16.8915,False
+Elongasi,CMC × PVA,2_1,3_2,-86.0,0.0623,-174.4471,2.4471,False
+Elongasi,CMC × PVA,2_1,3_3,-58.3519,0.4512,-146.7989,30.0952,False
+Elongasi,CMC × PVA,2_2,2_3,60.7222,0.1623,-11.4945,132.939,False
+Elongasi,CMC × PVA,2_2,3_1,11.537,0.9998,-60.6797,83.7538,False
+Elongasi,CMC × PVA,2_2,3_2,-2.9074,1.0,-75.1241,69.3093,False
+Elongasi,CMC × PVA,2_2,3_3,24.7407,0.9678,-47.476,96.9575,False
+Elongasi,CMC × PVA,2_3,3_1,-49.1852,0.4084,-121.4019,23.0316,False
+Elongasi,CMC × PVA,2_3,3_2,-63.6296,0.1231,-135.8464,8.5871,False
+Elongasi,CMC × PVA,2_3,3_3,-35.9815,0.7839,-108.1982,36.2353,False
+Elongasi,CMC × PVA,3_1,3_2,-14.4444,0.9991,-86.6612,57.7723,False
+Elongasi,CMC × PVA,3_1,3_3,13.2037,0.9995,-59.013,85.4204,False
+Elongasi,CMC × PVA,3_2,3_3,27.6481,0.9395,-44.5686,99.8649,False
+Elongasi,CMC × Plasticizer,1_Gliserol,1_Sorbitol,-49.8642,0.6811,-150.4283,50.6999,False
+Elongasi,CMC × Plasticizer,1_Gliserol,2_Gliserol,-49.2469,0.6923,-149.811,51.3172,False
+Elongasi,CMC × Plasticizer,1_Gliserol,2_Sorbitol,-42.7654,0.8654,-155.1995,69.6687,False
+Elongasi,CMC × Plasticizer,1_Gliserol,3_Gliserol,-90.1728,0.102,-190.737,10.3913,False
+Elongasi,CMC × Plasticizer,1_Gliserol,3_Sorbitol,-62.7037,0.442,-163.2678,37.8604,False
+Elongasi,CMC × Plasticizer,1_Sorbitol,2_Gliserol,0.6173,1.0,-99.9468,101.1814,False
+Elongasi,CMC × Plasticizer,1_Sorbitol,2_Sorbitol,7.0988,1.0,-105.3353,119.5329,False
+Elongasi,CMC × Plasticizer,1_Sorbitol,3_Gliserol,-40.3086,0.8379,-140.8728,60.2555,False
+Elongasi,CMC × Plasticizer,1_Sorbitol,3_Sorbitol,-12.8395,0.9989,-113.4036,87.7246,False
+Elongasi,CMC × Plasticizer,2_Gliserol,2_Sorbitol,6.4815,1.0,-105.9526,118.9156,False
+Elongasi,CMC × Plasticizer,2_Gliserol,3_Gliserol,-40.9259,0.8292,-141.49,59.6382,False
+Elongasi,CMC × Plasticizer,2_Gliserol,3_Sorbitol,-13.4568,0.9986,-114.0209,87.1073,False
+Elongasi,CMC × Plasticizer,2_Sorbitol,3_Gliserol,-47.4074,0.8073,-159.8415,65.0267,False
+Elongasi,CMC × Plasticizer,2_Sorbitol,3_Sorbitol,-19.9383,0.9948,-132.3724,92.4958,False
+Elongasi,CMC × Plasticizer,3_Gliserol,3_Sorbitol,27.4691,0.9637,-73.095,128.0333,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,1_1_Sorbitol,-9.2963,1.0,-106.7863,88.1937,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,1_2_Gliserol,49.037,0.8866,-48.4529,146.527,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,1_2_Sorbitol,14.963,1.0,-82.527,112.4529,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,1_3_Gliserol,267.037,0.0,169.5471,364.527,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,1_3_Sorbitol,160.8148,0.0001,63.3248,258.3048,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,2_1_Gliserol,100.8889,0.0365,3.3989,198.3789,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,2_2_Gliserol,11.6296,1.0,-85.8603,109.1196,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,2_2_Sorbitol,23.963,0.9999,-73.527,121.4529,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,2_3_Gliserol,55.8148,0.7562,-41.6752,153.3048,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,2_3_Sorbitol,101.2222,0.0353,3.7322,198.7122,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_1_Gliserol,25.2222,0.9998,-72.2678,122.7122,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_1_Sorbitol,33.4444,0.9959,-64.0455,130.9344,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_2_Gliserol,1.5185,1.0,-95.9715,99.0085,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_2_Sorbitol,28.2593,0.9994,-69.2307,125.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_3_Gliserol,18.8148,1.0,-78.6752,116.3048,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Gliserol,3_3_Sorbitol,66.2593,0.4975,-31.2307,163.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,1_2_Gliserol,58.3333,0.6971,-39.1566,155.8233,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,1_2_Sorbitol,24.2593,0.9999,-73.2307,121.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,1_3_Gliserol,276.3333,0.0,178.8434,373.8233,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,1_3_Sorbitol,170.1111,0.0,72.6211,267.6011,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,2_1_Gliserol,110.1852,0.0147,12.6952,207.6752,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,2_2_Gliserol,20.9259,1.0,-76.5641,118.4159,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,2_2_Sorbitol,33.2593,0.9961,-64.2307,130.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,2_3_Gliserol,65.1111,0.5263,-32.3789,162.6011,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,2_3_Sorbitol,110.5185,0.0143,13.0285,208.0085,True
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_1_Gliserol,34.5185,0.9943,-62.9715,132.0085,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_1_Sorbitol,42.7407,0.959,-54.7492,140.2307,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_2_Gliserol,10.8148,1.0,-86.6752,108.3048,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_2_Sorbitol,37.5556,0.9868,-59.9344,135.0455,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_3_Gliserol,28.1111,0.9994,-69.3789,125.6011,False
+Elongasi,CMC × PVA × Plasticizer,1_1_Sorbitol,3_3_Sorbitol,75.5556,0.2895,-21.9344,173.0455,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,1_2_Sorbitol,-34.0741,0.995,-131.5641,63.4159,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,1_3_Gliserol,218.0,0.0,120.51,315.49,True
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,1_3_Sorbitol,111.7778,0.0126,14.2878,209.2678,True
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,2_1_Gliserol,51.8519,0.8385,-45.6381,149.3418,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,2_2_Gliserol,-37.4074,0.9873,-134.8974,60.0826,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,2_2_Sorbitol,-25.0741,0.9999,-122.5641,72.4159,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,2_3_Gliserol,6.7778,1.0,-90.7122,104.2678,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,2_3_Sorbitol,52.1852,0.8322,-45.3048,149.6752,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_1_Gliserol,-23.8148,0.9999,-121.3048,73.6752,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_1_Sorbitol,-15.5926,1.0,-113.0826,81.8974,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_2_Gliserol,-47.5185,0.9085,-145.0085,49.9715,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_2_Sorbitol,-20.7778,1.0,-118.2678,76.7122,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_3_Gliserol,-30.2222,0.9986,-127.7122,67.2678,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Gliserol,3_3_Sorbitol,17.2222,1.0,-80.2678,114.7122,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,1_3_Gliserol,252.0741,0.0,154.5841,349.5641,True
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,1_3_Sorbitol,145.8519,0.0003,48.3619,243.3418,True
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,2_1_Gliserol,85.9259,0.1354,-11.5641,183.4159,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,2_2_Gliserol,-3.3333,1.0,-100.8233,94.1566,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,2_2_Sorbitol,9.0,1.0,-88.49,106.49,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,2_3_Gliserol,40.8519,0.9719,-56.6381,138.3418,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,2_3_Sorbitol,86.2593,0.1318,-11.2307,183.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_1_Gliserol,10.2593,1.0,-87.2307,107.7492,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_1_Sorbitol,18.4815,1.0,-79.0085,115.9715,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_2_Gliserol,-13.4444,1.0,-110.9344,84.0455,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_2_Sorbitol,13.2963,1.0,-84.1937,110.7863,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_3_Gliserol,3.8519,1.0,-93.6381,101.3418,False
+Elongasi,CMC × PVA × Plasticizer,1_2_Sorbitol,3_3_Sorbitol,51.2963,0.8488,-46.1937,148.7863,False
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,1_3_Sorbitol,-106.2222,0.0218,-203.7122,-8.7322,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,2_1_Gliserol,-166.1481,0.0,-263.6381,-68.6582,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,2_2_Gliserol,-255.4074,0.0,-352.8974,-157.9174,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,2_2_Sorbitol,-243.0741,0.0,-340.5641,-145.5841,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,2_3_Gliserol,-211.2222,0.0,-308.7122,-113.7322,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,2_3_Sorbitol,-165.8148,0.0,-263.3048,-68.3248,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_1_Gliserol,-241.8148,0.0,-339.3048,-144.3248,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_1_Sorbitol,-233.5926,0.0,-331.0826,-136.1026,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_2_Gliserol,-265.5185,0.0,-363.0085,-168.0285,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_2_Sorbitol,-238.7778,0.0,-336.2678,-141.2878,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_3_Gliserol,-248.2222,0.0,-345.7122,-150.7322,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Gliserol,3_3_Sorbitol,-200.7778,0.0,-298.2678,-103.2878,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,2_1_Gliserol,-59.9259,0.6578,-157.4159,37.5641,False
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,2_2_Gliserol,-149.1852,0.0002,-246.6752,-51.6952,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,2_2_Sorbitol,-136.8519,0.0009,-234.3418,-39.3619,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,2_3_Gliserol,-105.0,0.0246,-202.49,-7.51,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,2_3_Sorbitol,-59.5926,0.6661,-157.0826,37.8974,False
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_1_Gliserol,-135.5926,0.001,-233.0826,-38.1026,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_1_Sorbitol,-127.3704,0.0025,-224.8603,-29.8804,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_2_Gliserol,-159.2963,0.0001,-256.7863,-61.8063,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_2_Sorbitol,-132.5556,0.0014,-230.0455,-35.0656,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_3_Gliserol,-142.0,0.0005,-239.49,-44.51,True
+Elongasi,CMC × PVA × Plasticizer,1_3_Sorbitol,3_3_Sorbitol,-94.5556,0.0652,-192.0455,2.9344,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,2_2_Gliserol,-89.2593,0.103,-186.7492,8.2307,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,2_2_Sorbitol,-76.9259,0.2641,-174.4159,20.5641,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,2_3_Gliserol,-45.0741,0.9377,-142.5641,52.4159,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,2_3_Sorbitol,0.3333,1.0,-97.1566,97.8233,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_1_Gliserol,-75.6667,0.2873,-173.1566,21.8233,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_1_Sorbitol,-67.4444,0.4682,-164.9344,30.0455,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_2_Gliserol,-99.3704,0.042,-196.8603,-1.8804,True
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_2_Sorbitol,-72.6296,0.3487,-170.1196,24.8603,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_3_Gliserol,-82.0741,0.1826,-179.5641,15.4159,False
+Elongasi,CMC × PVA × Plasticizer,2_1_Gliserol,3_3_Sorbitol,-34.6296,0.9941,-132.1196,62.8603,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,2_2_Sorbitol,12.3333,1.0,-85.1566,109.8233,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,2_3_Gliserol,44.1852,0.9465,-53.3048,141.6752,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,2_3_Sorbitol,89.5926,0.1002,-7.8974,187.0826,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_1_Gliserol,13.5926,1.0,-83.8974,111.0826,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_1_Sorbitol,21.8148,1.0,-75.6752,119.3048,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_2_Gliserol,-10.1111,1.0,-107.6011,87.3789,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_2_Sorbitol,16.6296,1.0,-80.8603,114.1196,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_3_Gliserol,7.1852,1.0,-90.3048,104.6752,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Gliserol,3_3_Sorbitol,54.6296,0.7824,-42.8603,152.1196,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,2_3_Gliserol,31.8519,0.9975,-65.6381,129.3418,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,2_3_Sorbitol,77.2593,0.2581,-20.2307,174.7492,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_1_Gliserol,1.2593,1.0,-96.2307,98.7492,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_1_Sorbitol,9.4815,1.0,-88.0085,106.9715,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_2_Gliserol,-22.4444,1.0,-119.9344,75.0455,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_2_Sorbitol,4.2963,1.0,-93.1937,101.7863,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_3_Gliserol,-5.1481,1.0,-102.6381,92.3418,False
+Elongasi,CMC × PVA × Plasticizer,2_2_Sorbitol,3_3_Sorbitol,42.2963,0.9623,-55.1937,139.7863,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,2_3_Sorbitol,45.4074,0.9341,-52.0826,142.8974,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_1_Gliserol,-30.5926,0.9984,-128.0826,66.8974,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_1_Sorbitol,-22.3704,1.0,-119.8603,75.1196,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_2_Gliserol,-54.2963,0.7896,-151.7863,43.1937,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_2_Sorbitol,-27.5556,0.9995,-125.0455,69.9344,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_3_Gliserol,-37.0,0.9886,-134.49,60.49,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Gliserol,3_3_Sorbitol,10.4444,1.0,-87.0455,107.9344,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_1_Gliserol,-76.0,0.2811,-173.49,21.49,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_1_Sorbitol,-67.7778,0.4601,-165.2678,29.7122,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_2_Gliserol,-99.7037,0.0407,-197.1937,-2.2137,True
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_2_Sorbitol,-72.963,0.3416,-170.4529,24.527,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_3_Gliserol,-82.4074,0.178,-179.8974,15.0826,False
+Elongasi,CMC × PVA × Plasticizer,2_3_Sorbitol,3_3_Sorbitol,-34.963,0.9935,-132.4529,62.527,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Gliserol,3_1_Sorbitol,8.2222,1.0,-89.2678,105.7122,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Gliserol,3_2_Gliserol,-23.7037,0.9999,-121.1937,73.7863,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Gliserol,3_2_Sorbitol,3.037,1.0,-94.4529,100.527,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Gliserol,3_3_Gliserol,-6.4074,1.0,-103.8974,91.0826,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Gliserol,3_3_Sorbitol,41.037,0.9708,-56.4529,138.527,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Sorbitol,3_2_Gliserol,-31.9259,0.9975,-129.4159,65.5641,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Sorbitol,3_2_Sorbitol,-5.1852,1.0,-102.6752,92.3048,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Sorbitol,3_3_Gliserol,-14.6296,1.0,-112.1196,82.8603,False
+Elongasi,CMC × PVA × Plasticizer,3_1_Sorbitol,3_3_Sorbitol,32.8148,0.9966,-64.6752,130.3048,False
+Elongasi,CMC × PVA × Plasticizer,3_2_Gliserol,3_2_Sorbitol,26.7407,0.9997,-70.7492,124.2307,False
+Elongasi,CMC × PVA × Plasticizer,3_2_Gliserol,3_3_Gliserol,17.2963,1.0,-80.1937,114.7863,False
+Elongasi,CMC × PVA × Plasticizer,3_2_Gliserol,3_3_Sorbitol,64.7407,0.5357,-32.7492,162.2307,False
+Elongasi,CMC × PVA × Plasticizer,3_2_Sorbitol,3_3_Gliserol,-9.4444,1.0,-106.9344,88.0455,False
+Elongasi,CMC × PVA × Plasticizer,3_2_Sorbitol,3_3_Sorbitol,38.0,0.9853,-59.49,135.49,False
+Elongasi,CMC × PVA × Plasticizer,3_3_Gliserol,3_3_Sorbitol,47.4444,0.9095,-50.0455,144.9344,False
